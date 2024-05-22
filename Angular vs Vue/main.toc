@@ -4,21 +4,33 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Declaration}{iv}{chapter*.1}%
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{Preface}{vi}{chapter*.3}%
-\contentsline {chapter}{Abstract}{viii}{chapter*.4}%
-\contentsline {chapter}{Kurzfassung}{ix}{chapter*.5}%
+\contentsline {chapter}{Preface}{vii}{chapter*.3}%
+\contentsline {chapter}{Abstract}{ix}{chapter*.4}%
+\contentsline {chapter}{Kurzfassung}{x}{chapter*.5}%
 \babel@toc {ngerman}{}\relax 
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}ToDo -> Chapters}{1}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Theoretical background}{2}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Elements of a Thesis}{2}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Language and Writing Style}{3}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Writing a Thesis in English at a German-Speaking University}{3}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Comparison criteria}{5}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Getting Started}{5}{section.3.1}%
-\contentsline {chapter}{\numberline {4}Case study}{6}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Results}{7}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Read and Let Read}{7}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Checklist}{7}{section.5.2}%
-\contentsline {chapter}{References}{9}{appendix*.7}%
+\contentsline {chapter}{\numberline {1}Introduction - C}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}WebApps and JavaScript Frameworks}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Theoretical background - S}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}What are WebFrameworks}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Why are WebFrameworks important}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Introduction to JavaScript Frameworks}{2}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Short description of Angular.js}{2}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Short description of Vue.js}{2}{section.2.5}%
+\contentsline {section}{\numberline {2.6}What are the differences between Angular.js and Vue.js}{2}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Comparison criteria - M}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Performance}{3}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Developer-friendliness}{3}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Community support}{3}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Ecosystem}{3}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Case Study - C}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Case Study}{4}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Results - S}{6}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Performance}{6}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Developer-friendliness}{6}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Community support}{6}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Ecosystem}{6}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Conclusion and recommendations - M}{7}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Conclusion}{7}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Recommendations}{7}{section.6.2}%
+\contentsline {chapter}{References}{8}{appendix*.6}%

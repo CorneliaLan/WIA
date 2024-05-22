@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  22 MAY 2024 12:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  22 MAY 2024 14:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1228,7 +1228,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count543
-)) (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/thethesis.aux) (./chapters/latex.aux) (./chapters/figures.aux) (./chapters/mathematics.aux) (./chapters/literature.aux) (./chapters/printing.aux) (./chapters/closing.aux))
+)) (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/background.aux) (./chapters/comparison.aux) (./chapters/literature.aux) (./chapters/results.aux) (./chapters/conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -1393,25 +1393,21 @@ Package csquotes Info: Redefining character " on input line 53.
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 Package tocbasic Info: Using my definition of `\numberline' on input line 7.
 Package tocbasic Info: Using my definition of `\numberline' on input line 8.
-
-Overfull \hbox (0.1675pt too wide) detected at line 8
- []\T1/lmr/bx/n/10.95 viii[]
- []
-
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
 Package tocbasic Info: Using my definition of `\numberline' on input line 14.
-Package tocbasic Info: Using my definition of `\numberline' on input line 18.
-Package tocbasic Info: Using my definition of `\numberline' on input line 20.
 Package tocbasic Info: Using my definition of `\numberline' on input line 21.
-Package tocbasic Info: Using my definition of `\numberline' on input line 24.
+Package tocbasic Info: Using my definition of `\numberline' on input line 26.
+Package tocbasic Info: Using my definition of `\numberline' on input line 28.
+Package tocbasic Info: Using my definition of `\numberline' on input line 33.
+Package tocbasic Info: Using my definition of `\numberline' on input line 36.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  [5
 
-]
+] [6]
 \openout2 = `front/preface.aux'.
 
  (./front/preface.tex
@@ -1420,13 +1416,13 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 52.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [6
+) [7
 
 
-]) [7]
+]) [8]
 \openout2 = `front/abstract.aux'.
 
- (./front/abstract.tex) [8
+ (./front/abstract.tex) [9
 
 
 
@@ -1436,7 +1432,7 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
  (./front/kurzfassung.tex
 Package csquotes Info: Redefining character " on input line 3.
-) [9
+) [10
 
 
 
@@ -1453,104 +1449,89 @@ Chapter 1.
 
 
 ]
-\openout2 = `chapters/thethesis.aux'.
+\openout2 = `chapters/background.aux'.
 
- (./chapters/thethesis.tex
+ (./chapters/background.tex
 Chapter 2.
-[2
-
-
-
-
-] [3]
-
-LaTeX Warning: Reference `sec:quotation-marks' on page 4 undefined on input line 116.
-
-) [4]
-\openout2 = `chapters/latex.aux'.
-
- (./chapters/latex.tex
-Chapter 3.
-) [5
+) [2
 
 
 
 
 ]
-\openout2 = `chapters/figures.aux'.
+\openout2 = `chapters/comparison.aux'.
+
+ (./chapters/comparison.tex
+Chapter 3.
+) [3
 
 
-No file chapters/figures.tex.
-\openout2 = `chapters/mathematics.aux'.
 
-No file chapters/mathematics.tex.
+
+]
 \openout2 = `chapters/literature.aux'.
 
-(./chapters/literature.tex
+ (./chapters/literature.tex
 Chapter 4.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 12.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [4
+
+
+
+
+]) [5]
+\openout2 = `chapters/results.aux'.
+
+ (./chapters/results.tex
+Chapter 5.
 ) [6
 
 
 
 
-
-
-
-
-
-
 ]
-\openout2 = `chapters/printing.aux'.
+\openout2 = `chapters/conclusion.aux'.
 
-
-No file chapters/printing.tex.
-\openout2 = `chapters/closing.aux'.
-
-(./chapters/closing.tex
-Chapter 5.
+ (./chapters/conclusion.tex
+Chapter 6.
 ) [7
 
 
 
 
+]
 
+LaTeX Warning: Empty bibliography on input line 85.
 
-
-] [8{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-
-LaTeX Warning: Empty bibliography on input line 87.
-
-[9
+[8
 
 
 
 
-] (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/thethesis.aux) (./chapters/latex.aux) (./chapters/figures.aux) (./chapters/mathematics.aux) (./chapters/literature.aux) (./chapters/printing.aux) (./chapters/closing.aux))
+] (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/background.aux) (./chapters/comparison.aux) (./chapters/literature.aux) (./chapters/results.aux) (./chapters/conclusion.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44185 strings out of 474116
- 867530 string characters out of 5743682
+ 44126 strings out of 474116
+ 866292 string characters out of 5743682
  1939187 words of memory out of 5000000
- 65579 multiletter control sequences out of 15000+600000
- 656070 words of font info for 107 fonts, out of 8000000 for 9000
+ 65542 multiletter control sequences out of 15000+600000
+ 630404 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  130i,11n,145p,1210b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (18 pages, 387988 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (18 pages, 347582 bytes).
 PDF statistics:
- 307 PDF objects out of 1000 (max. 8388607)
- 252 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
- 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 332 PDF objects out of 1000 (max. 8388607)
+ 281 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 
