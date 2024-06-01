@@ -1,19 +1,120 @@
 \chapter{Theoretical background - S}
 %	 - Was sind Web-Frameworks
-%    - Warum sind sie wichtig
+%    - Vor- und Nachteile
 %    - Einführung in JavaScript-Frameworks: Allgemeine Informationen zu JavaScriptFrameworks
 %    - Kurze Beschreibung Angular.js: Ursprung, Entwicklung, Hauptmerkmale
 %    - Kurze Beschreibung Vue.js: Ursprung, Entwicklung, Hauptmerkmale
 %    - Was sind die Unterschiede zwischen Angular.js und Vue.js
 
-\section{What are WebFrameworks}
+\section{What are WebFrameworks} % muss später übersetzt werden
 
-\section{Why are WebFrameworks important}
+% zitiert aus:
+% Ionos. Webfameworks - Überblick und Klassifizierung. Website, Oktober 2022. Online erhältlich unter https://www.ionos.de/digitalguide/websites/web-entwicklung/webframeworks-ein-ueberblick/; abgerufen am 31.05.2024.
+
+% Ein Framework ist ein Programmgerüst, das als Grundlage bei Software-Entwicklungen dient. Frameworks enthalten bereits zahlreiche Funktionen in der Software-Entwicklung als Lösungsvorschläge für individuelle Problemstellungen von verschiedenen Entwicklern. So müssen diese nicht von Null beginnen, wenn sie eie neue Software schreiben möchten.
+
+% Ein Framework beschreibt eine Sammlung an zusammenwirkenden Klassen und fixiert somit auch die Designstruktur für Software, die auf Basis des Frameworks entwickelt wird. 
+
+% Fungiert ein Framework als Grundlage für Web-Anwendungen, spricht man von einem Web-Application-Framework.
+
+A framework is a program skeleton that serves as a foundation for software development. Frameworks already contain numerous functions in software development as proposed solutions for individual problems faced by various developers. This way, they do not have to start from scratch when they want to write new software.
+
+A framework describes a collection of interacting classes and thus also fixes the design structure for software developed based on the framework.
+
+If a framework serves as the foundation for web applications, it is referred to as a web application framework.
+
+\section{WebFrameworks - Pros and Cons}
+
+% zitiert aus:
+% Ionos. Webfameworks - Überblick und Klassifizierung. Website, Oktober 2022. Online erhältlich unter https://www.ionos.de/digitalguide/websites/web-entwicklung/webframeworks-ein-ueberblick/; abgerufen am 31.05.2024.
+
+% Webframeworks bieten sehr viele Vorteile, jedoch verbergen auch signifikante Nachteile.
+
+Web frameworks offer many advantages, but they also hide significant disadvantages.
+
+\subsection{Advantages}
+
+% zitiert aus:
+% Ionos. Webfameworks - Überblick und Klassifizierung. Website, Oktober 2022. Online erhältlich unter https://www.ionos.de/digitalguide/websites/web-entwicklung/webframeworks-ein-ueberblick/; abgerufen am 31.05.2024.
+
+% Die Nutzung von Webframeworks zielt darauf ab, den Zeit- und Kostenaufwand in der Softwareentwicklung zu reduzieren. Der Fokus liegt auf der Wiederverwendung von Code für grundlegende Funktionen wie Datenbankanbindung, Templates, Caching und Sicherheit, die als vorgefertigte Module bereitgestellt werden.
+
+% Dadurch kann sich die Entwicklung auf den spezifischen Code der neuen Anwendung konzentrieren. Da die meisten Webframeworks als Open-Source verfügbar sind, entstehen in der Regel keine Lizenzkosten.
+
+% Frameworks fördern zudem die Erstellung von sauberem und wartbarem Code, da Entwickler auf bewährte Bausteine zurückgreifen können. Diese werden regelmäßig von der Community verbessert und Sicherheitslücken schnell behoben.
+
+The use of web frameworks aims to reduce time and cost in software development. The focus is on reusing code for basic functions such as database connections, templates, caching, and security, which are provided as pre-built modules.
+
+This allows development to concentrate on the specific code of the new application. Since most web frameworks are available as open-source, there are generally no licensing costs.
+
+Frameworks also promote the creation of clean and maintainable code, as developers can rely on proven building blocks. These are regularly improved by the community, and security vulnerabilities are quickly addressed.
+
+\subsection{Disadvantages}
+
+% zitiert aus:
+% Ionos. Webfameworks - Überblick und Klassifizierung. Website, Oktober 2022. Online erhältlich unter https://www.ionos.de/digitalguide/websites/web-entwicklung/webframeworks-ein-ueberblick/; abgerufen am 31.05.2024.
+
+% Im Internet stehen zahlreiche Frameworks für die Webentwicklung zur Auswahl, die sich in ihren Designprinzipien und ihrem Funktionsumfang unterscheiden. Je nach Projekt kann ein bestimmtes Framework erforderlich sein, was Kompromisse mit sich bringen kann.
+
+% Frameworks sind zwar als allgemeine Lösungen gedacht, aber Entwickler nutzen oft nicht alle verfügbaren Funktionen, was zu unnötigem Code führen kann, der als Ballast bezeichnet wird.
+
+% Ein weiterer Nachteil ist die Abhängigkeit vom Framework und seinem Anbieter, sowie mögliche Lizenzbeschränkungen. Probleme können auch auftreten, wenn die Weiterentwicklung des Frameworks eingestellt wird. Entwickler müssen sich außerdem in die Struktur und Nutzung des Frameworks einarbeiten, was Zeit erfordert, die jedoch durch vorgefertigte Funktionen und Codebausteine kompensiert wird.
+
+% Da der Quellcode vieler Webframeworks öffentlich zugänglich ist, kann jeder ihn einsehen. Dies kann zu Sicherheitsrisiken führen, besonders wenn Unternehmensanwendungen auf öffentlichem Code basieren.
+
+On the internet, there are numerous frameworks available for web development, which differ in their design principles and functionality. Depending on the project, a specific framework may be required, which can involve compromises.
+
+Although frameworks are intended as general solutions, developers often do not use all the available functions, leading to unnecessary code, known as bloat.
+
+Another disadvantage is the dependency on the framework and its provider, as well as potential licensing restrictions. Problems can also arise if the development of the framework is discontinued. Developers must also familiarize themselves with the structure and use of the framework, which requires time, although this is compensated by pre-built functions and code modules.
+
+Since the source code of many web frameworks is publicly accessible, anyone can view it. This can lead to security risks, especially if enterprise applications are based on public code.
 
 \section{Introduction to JavaScript Frameworks}
 
+% zitiert aus:
+% Ionos. Die beliebtesten JavaScript-Frameworks und -Bibliotheken. Website, März 2023. Online erhältlich unter https://www.ionos.at/digitalguide/websites/web-entwicklung/beliebte-javascript-frameworks-und-bibliotheken/; abgerufen am 31.05.2024.
+
+% JavaScript ist eine einfach gehaltene Programmiersprache, die sich besonders für die Arbeit im Webbrowser eignet. Doch die Schnittstelle zur Website, das DOM (Document Object Model), kann für viele Programmierer eine Herausforderung darstellen. An dieser Stelle kommen JavaScript-Frameworks und -Bibliotheken ins Spiel: Sie bieten Entwicklern Hilfsmittel, um diese und andere Aspekte der Programmierung zu vereinfachen.
+
+% JavaScript Frameworks sind besonders für die Entwicklung komplexer Webanwendungen geeignet. Wenn sich Entwickler mit den Konzepten und Vorgaben des jeweiligen Frameworks vertraut machen, können sie äußerst effektiv damit arbeiten.
+
+JavaScript is a straightforward programming language particularly suited for working in web browsers. However, the interface to the website, the DOM (Document Object Model), can pose a challenge for many programmers. This is where JavaScript frameworks and libraries come into play: they provide developers with tools to simplify this and other aspects of programming.
+
+JavaScript frameworks are especially suitable for developing complex web applications. When developers become familiar with the concepts and guidelines of a particular framework, they can work very effectively with it.
+
 \section{Short description of Angular.js}
+
+% zitiert aus:
+% Angular.de. Was sind Angular und AngularJS?. Website, März 2017. Online erhältlich unter https://angular.de/artikel/was-ist-angular/; abgerufen am 31.05.2024.
+
+% AngularJS, von Google entwickelt, ist ein JavaScript-Framework für die Webentwicklung, das Wert auf Struktur und Qualität legt. Es war das erste Framework, das sich mit Architektur, Testbarkeit und isolierten Komponenten auch für große Enterprise-Anwendungen eignete. Durch Techniken wie Dependency Injection ermöglicht es effiziente und wartbare Softwareentwicklung auf JavaScript-Basis.
+
+% Angular ist eine Weiterentwicklung von AngularJS, wobei die Code-Basis komplett neu geschrieben wurde und nun TypeScript als Grundlage dient. Dies ermöglicht eine Migration oder sogar einen hybriden Einsatz der Versionen. Das Projekt hat sich von der Entwicklung eines reinen Frameworks zu einer umfassenden Plattform für Webanwendungen weiterentwickelt.
+
+AngularJS, developed by Google, is a JavaScript framework for web development that emphasizes structure and quality. It was the first framework suitable for large enterprise applications, addressing architecture, testability, and isolated components. Techniques like dependency injection enable efficient and maintainable software development based on JavaScript.
+
+Angular is an evolution of AngularJS, with a completely rewritten codebase now using TypeScript as its foundation. This allows for migration or even hybrid use of the versions. The project has evolved from the development of a pure framework to a comprehensive platform for web applications.
 
 \section{Short description of Vue.js}
 
+% zitiert aus:
+% vuejs.org. Einführung. Website. Online erhältich unter https://vuejs.org/guide/introduction.html; abgerufen am 31.05.2024.
+
+% Vue.js (ausgesprochen /vju/, wie "view") ist ein JavaScript-Framework zur Gestaltung von Benutzeroberflächen. Es basiert auf Standard-HTML, CSS und JavaScript und bietet ein deklaratives, komponentenbasiertes Programmiermodell, das es ermöglicht, Benutzeroberflächen jeder Komplexität effizient zu entwickeln.
+
+Vue.js (pronounced /vju/, like "view") is a JavaScript framework for designing user interfaces. It is based on standard HTML, CSS, and JavaScript and offers a declarative, component-based programming model that allows for the efficient development of user interfaces of any complexity.
+
 \section{What are the differences between Angular.js and Vue.js}
+
+% zitiert aus:
+% kinsta.com. Angular vs. Vue: Ein Kopf-an-Kopf-Vergleich. Website, Juli 2023. Online erhältlich unter https://kinsta.com/de/blog/angular-vs-vue/#angular-vs-vue-hnlichkeiten-und-gemeinsamkeiten; abgerufen am 31.05.2024.
+
+% Angular und Vue.js sind beide JavaScript-Frameworks, die zur Entwicklung moderner Webanwendungen verwendet werden können. Ein Hauptunterschied besteht darin, dass Angular eine MVC-Architektur verwendet, während Vue.js ein progressiveres Framework ist. Angular bietet eine robuste und erprobte Entwicklungsumgebung mit Funktionen wie effizienter Zwei-Wege-Datenbindung, einem umfangreichen CLI und einer gut definierten Architektur. Vue.js hingegen ist flexibler und leichtgewichtiger, mit Funktionen wie dem virtuellen DOM, CSS-Übergängen und einfacheren Berechnungen von Eigenschaften. Beide Frameworks haben ihre Vor- und Nachteile, und die Wahl zwischen ihnen hängt von den spezifischen Anforderungen und Präferenzen eines Projekts ab.
+
+Angular and Vue.js are both JavaScript frameworks that can be used to develop modern web applications. A key difference is that Angular uses an MVC (Model-View-Controller) architecture, while Vue.js is a more progressive framework. Angular offers a robust and well-established development environment with features like efficient two-way data binding, a comprehensive CLI, and a well-defined architecture. Vue.js, on the other hand, is more flexible and lightweight, with features like the virtual DOM, CSS transitions, and simpler computed properties. Both frameworks have their advantages and disadvantages, and the choice between them depends on the specific requirements and preferences of a project.
+
+% MVC: Model View Controller (eine Softwarearchitektur)
+% CLI: Command Line Interface (eine textbasierte Benutzerschnittstelle)
+% DOM: Document Object Model (eine Programmierschnittstelle für strukturierte Dokumente wie HTML und XML)
+% CSS: Cascading Style Sheets (eine Stylesheet-Sprache für die Gestaltung von Dokumenten)
