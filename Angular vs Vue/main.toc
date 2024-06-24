@@ -15,36 +15,36 @@
 \contentsline {section}{\numberline {1.3}Challenges in Web Development}{1}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Goals}{1}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Structure}{1}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Comparison criteria - M}{2}{section.1.6}%
-\contentsline {subsection}{\numberline {1.6.1}Metrics in General}{2}{subsection.1.6.1}%
-\contentsline {subsection}{\numberline {1.6.2}Performance}{2}{subsection.1.6.2}%
-\contentsline {subsection}{\numberline {1.6.3}Developer-friendliness}{2}{subsection.1.6.3}%
-\contentsline {subsection}{\numberline {1.6.4}Community support}{2}{subsection.1.6.4}%
-\contentsline {subsection}{\numberline {1.6.5}Ecosystem}{2}{subsection.1.6.5}%
-\contentsline {section}{\numberline {1.7}Short description of Angular.js}{2}{section.1.7}%
-\contentsline {chapter}{\numberline {2}Theoretical Background - S}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Web Frameworks}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Web Frameworks - Pros and Cons}{3}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Advantages}{3}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Disadvantages}{3}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Introduction to JavaScript Frameworks}{4}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Brief Description of Angular.js}{4}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Brief Description of Vue.js}{4}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Differences Between Angular.js and Vue.js}{5}{section.2.6}%
-\contentsline {chapter}{\numberline {3}Case Study - C}{6}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction to the Case Study}{6}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Application Description}{6}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Technical Implementation}{6}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Performance and efficiency}{6}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Challenges and Solutions}{6}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Comparison and analysis}{6}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Conclusion from the Case Study}{6}{section.3.7}%
-\contentsline {chapter}{\numberline {4}Results - S}{7}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Performance}{7}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Developer-friendliness}{7}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Community support}{7}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Ecosystem}{7}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Conclusion and recommendations - M}{8}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Conclusion}{8}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Recommendations}{8}{section.5.2}%
-\contentsline {chapter}{References}{9}{appendix*.6}%
+\contentsline {chapter}{\numberline {2}Theoretical Background - S}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Web Frameworks}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Web Frameworks - Pros and Cons}{2}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Advantages}{2}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Disadvantages}{2}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Introduction to JavaScript Frameworks}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Comparison criteria - M}{3}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Metrics in General}{3}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Performance}{3}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Developer-friendliness}{3}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Community support}{3}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Ecosystem}{3}{subsection.2.4.5}%
+\contentsline {section}{\numberline {2.5}Brief Description of Angular.js}{3}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Brief Description of Vue.js}{4}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Differences Between Angular.js and Vue.js}{4}{section.2.7}%
+\contentsline {chapter}{\numberline {3}Case Study - C}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction to the Case Study}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Application Description}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Technical Implementation}{5}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Performance and efficiency}{5}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Challenges and Solutions}{5}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Comparison and analysis}{5}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Conclusion from the Case Study}{5}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Results - S}{6}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Performance}{6}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Developer-friendliness}{6}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Community support}{6}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Ecosystem}{6}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Conclusion and recommendations - M}{7}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusion}{7}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Recommendations}{7}{section.5.2}%
+\contentsline {chapter}{References}{8}{appendix*.6}%
+\contentsline {section}{Literature}{8}{section*.7}%
