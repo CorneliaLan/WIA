@@ -544,6 +544,11 @@ INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german
 INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
 INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
 OUTPUT main.bcf
+INPUT main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
 INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex\generic\colorprofiles\sRGB.icc
 INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmss.fd
 INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmss.fd

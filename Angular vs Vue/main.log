@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  1 JUN 2024 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  22 JUN 2024 19:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1346,9 +1346,38 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
 
-No file main.bbl.
+Package biblatex Warning: citation 'ionos_webframeworks'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'ionos_jsframeworks'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'angular'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'vuejs'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'kinsta'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
 Package biblatex Info: Reference section=0 on input line 27.
 Package biblatex Info: Reference segment=0 on input line 27.
 <<sRGB.icc>>
@@ -1461,12 +1490,35 @@ Chapter 1.
 
  (chapters/background.tex
 Chapter 2.
+
+LaTeX Warning: Citation 'ionos_webframeworks' on page 2 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'ionos_webframeworks' on page 2 undefined on input line 138.
+
 [2
 
 
 
 
-] [3]) [4]
+]
+
+LaTeX Warning: Citation 'ionos_webframeworks' on page 3 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'ionos_jsframeworks' on page 3 undefined on input line 154.
+
+
+LaTeX Warning: Citation 'angular' on page 3 undefined on input line 160.
+
+[3]
+
+LaTeX Warning: Citation 'vuejs' on page 4 undefined on input line 166.
+
+
+LaTeX Warning: Citation 'kinsta' on page 4 undefined on input line 176.
+
+) [4]
 \openout2 = `chapters/comparison.aux'.
 
  (chapters/comparison.tex
@@ -1523,20 +1575,29 @@ LaTeX Warning: Empty bibliography on input line 85.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44181 strings out of 474424
- 876271 string characters out of 5741740
+ 44373 strings out of 474424
+ 880148 string characters out of 5741740
  1939496 words of memory out of 5000000
- 65571 multiletter control sequences out of 15000+600000
+ 65761 multiletter control sequences out of 15000+600000
  630404 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  130i,12n,145p,1149b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (20 pages, 392911 bytes).
+Output written on main.pdf (20 pages, 396664 bytes).
 PDF statistics:
  348 PDF objects out of 1000 (max. 8388607)
  52 named destinations out of 1000 (max. 500000)

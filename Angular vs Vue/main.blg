@@ -1,0 +1,21 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[177] biber-MSWIN64:340> INFO - === 
+[228] Biber.pm:420> INFO - Reading 'main.bcf'
+[406] Biber.pm:994> INFO - Found 5 citekeys in bib section 0
+[428] Biber.pm:4463> INFO - Processing section 0
+[447] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[1022] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1035] bibtex.pm:1519> INFO - Found BibTeX data source 'C:/Users/sandr/AppData/Local/Programs/MiKTeX/bibtex/bib/feupphdteses/references.bib'
+[1055] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1055] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1055] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1055] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1056] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1056] bbl.pm:779> INFO - Output to main.bbl
+[1057] Biber.pm:131> WARN - I didn't find a database entry for 'ionos_webframeworks' (section 0)
+[1057] Biber.pm:131> WARN - I didn't find a database entry for 'ionos_jsframeworks' (section 0)
+[1057] Biber.pm:131> WARN - I didn't find a database entry for 'angular' (section 0)
+[1057] Biber.pm:131> WARN - I didn't find a database entry for 'vuejs' (section 0)
+[1057] Biber.pm:131> WARN - I didn't find a database entry for 'kinsta' (section 0)
+[1057] Biber.pm:133> INFO - WARNINGS: 5
