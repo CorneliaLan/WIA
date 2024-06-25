@@ -4,9 +4,9 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Declaration}{iv}{chapter*.1}%
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{Preface}{vii}{chapter*.3}%
-\contentsline {chapter}{Abstract}{ix}{chapter*.4}%
-\contentsline {chapter}{Kurzfassung}{x}{chapter*.5}%
+\contentsline {chapter}{Preface}{vi}{chapter*.3}%
+\contentsline {chapter}{Abstract}{viii}{chapter*.4}%
+\contentsline {chapter}{Kurzfassung}{ix}{chapter*.5}%
 \babel@toc {ngerman}{}\relax 
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}Introduction - M}{1}{chapter.1}%
@@ -28,7 +28,7 @@
 \contentsline {subsection}{\numberline {2.4.3}Community Support}{5}{subsection.2.4.3}%
 \contentsline {section}{\numberline {2.5}Brief Description of Angular.js}{5}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Brief Description of Vue.js}{5}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Differences Between Angular.js and Vue.js}{5}{section.2.7}%
+\contentsline {section}{\numberline {2.7}Differences Between Angular.js and Vue.js}{6}{section.2.7}%
 \contentsline {chapter}{\numberline {3}Case Study - C}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Introduction to the Case Study}{8}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Objective of the Case Study}{8}{subsection.3.1.1}%
