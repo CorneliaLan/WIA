@@ -4,9 +4,9 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Declaration}{iv}{chapter*.1}%
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{Preface}{vi}{chapter*.3}%
-\contentsline {chapter}{Abstract}{viii}{chapter*.4}%
-\contentsline {chapter}{Kurzfassung}{ix}{chapter*.5}%
+\contentsline {chapter}{Preface}{vii}{chapter*.3}%
+\contentsline {chapter}{Abstract}{ix}{chapter*.4}%
+\contentsline {chapter}{Kurzfassung}{x}{chapter*.5}%
 \babel@toc {ngerman}{}\relax 
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}Introduction - M}{1}{chapter.1}%
@@ -18,45 +18,52 @@
 \contentsline {section}{\numberline {1.3}Goals}{1}{section.1.3}%
 \contentsline {chapter}{\numberline {2}Theoretical Background - S}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Web Frameworks}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Web Frameworks - Pros and Cons}{3}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Advantages}{3}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Disadvantages}{3}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Introduction to JavaScript Frameworks}{4}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Comparison criteria - M}{4}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Performance}{4}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Developer-Friendliness}{4}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.1.1}Pros and Cons of Web Frameworks}{3}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Introduction to JavaScript Frameworks}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}DOM and Dynamic Web Content}{4}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Benefits of Dynamic Web Content}{4}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Implementing Dynamic Web Content}{4}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Comparison criteria - M}{5}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Performance}{5}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Developer-Friendliness}{5}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Community Support}{5}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}Brief Description of Angular.js}{5}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Brief Description of Vue.js}{5}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Differences Between Angular.js and Vue.js}{6}{section.2.7}%
-\contentsline {chapter}{\numberline {3}Case Study - C}{7}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction to the Case Study}{7}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Objective of the Case Study}{7}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Application Description}{7}{subsection.3.1.2}%
-\contentsline {subsubsection}{User Registration and Login}{7}{subsection.3.1.2}%
-\contentsline {subsubsection}{Project Management}{8}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Technical Implementation}{8}{section.3.2}%
-\contentsline {subsubsection}{Application Architecture}{8}{section.3.2}%
-\contentsline {subsubsection}{State Management}{8}{section.3.2}%
-\contentsline {subsubsection}{Routing}{8}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Performance and efficiency}{9}{section.3.3}%
-\contentsline {subsubsection}{Loading Times and Responsiveness}{9}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Challenges and Solutions}{9}{section.3.4}%
-\contentsline {subsubsection}{Common Challenges}{9}{section.3.4}%
-\contentsline {subsubsection}{Framework-Specific Challenges}{9}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Comparison and analysis}{9}{section.3.5}%
-\contentsline {subsubsection}{Advantages and Disadvantages}{9}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Conclusion from the Case Study}{9}{section.3.6}%
-\contentsline {subsubsection}{Summary: }{9}{section.3.6}%
-\contentsline {subsubsection}{Recommendations: }{10}{section.3.6}%
-\contentsline {subsubsection}{Future Outlook: }{10}{section.3.6}%
-\contentsline {chapter}{\numberline {4}Results - S}{11}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Performance}{11}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Developer-friendliness}{11}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Community support}{11}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Ecosystem}{11}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Conclusion and recommendations - M}{12}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Conclusion}{12}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Recommendations}{12}{section.5.2}%
-\contentsline {chapter}{References}{13}{appendix*.7}%
-\contentsline {section}{Literature}{13}{section*.8}%
+\contentsline {section}{\numberline {2.5}JavaScript for Complex Web Applications}{5}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Relevant JavaScript Frameworks}{6}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Angular}{6}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Vue.js}{6}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2.7}Vue.js vs. Angular: A Detailed Comparison}{7}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Performance}{7}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Developer-Friendliness}{7}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Community Support}{8}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}Ecosystem}{8}{subsection.2.7.4}%
+\contentsline {section}{\numberline {2.8}Conclusion}{8}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Case Study - C}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction to the Case Study}{9}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Objective of the Case Study}{9}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Application Description}{9}{subsection.3.1.2}%
+\contentsline {subsubsection}{User Registration and Login}{9}{subsection.3.1.2}%
+\contentsline {subsubsection}{Project Management}{10}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Technical Implementation}{10}{section.3.2}%
+\contentsline {subsubsection}{Application Architecture}{10}{section.3.2}%
+\contentsline {subsubsection}{State Management}{10}{section.3.2}%
+\contentsline {subsubsection}{Routing}{10}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Performance and efficiency}{11}{section.3.3}%
+\contentsline {subsubsection}{Loading Times and Responsiveness}{11}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Challenges and Solutions}{11}{section.3.4}%
+\contentsline {subsubsection}{Common Challenges}{11}{section.3.4}%
+\contentsline {subsubsection}{Framework-Specific Challenges}{11}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Comparison and analysis}{11}{section.3.5}%
+\contentsline {subsubsection}{Advantages and Disadvantages}{11}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Conclusion from the Case Study}{11}{section.3.6}%
+\contentsline {subsubsection}{Summary: }{11}{section.3.6}%
+\contentsline {subsubsection}{Recommendations: }{12}{section.3.6}%
+\contentsline {subsubsection}{Future Outlook: }{12}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Results - S}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Performance}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Developer-friendliness}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Community support}{13}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Ecosystem}{13}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Conclusion and recommendations - M}{14}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusion}{14}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Recommendations}{14}{section.5.2}%
+\contentsline {chapter}{References}{15}{appendix*.7}%
