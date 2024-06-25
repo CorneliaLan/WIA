@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  25 JUN 2024 15:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  25 JUN 2024 16:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1238,24 +1238,24 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 )) (main.aux (front/preface.aux) (front/abstract.aux) (front/kurzfassung.aux) (chapters/introduction.aux) (chapters/background.aux) (chapters/casestudy.aux) (chapters/results.aux) (chapters/conclusion.aux) (chapters/literature.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1291,7 +1291,7 @@ LaTeX Font Info:    ... okay on input line 27.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package csquotes Info: Redefining character " on input line 27.
+Package csquotes Info: Redefining character " on input line 28.
 (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count544
@@ -1306,7 +1306,7 @@ Package csquotes Info: Redefining character " on input line 27.
 \makeMPintoPDFobject=\count549
 \everyMPtoPDFconversion=\toks56
 )
-Package hyperref Info: Link coloring OFF on input line 27.
+Package hyperref Info: Link coloring OFF on input line 28.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
@@ -1320,7 +1320,7 @@ Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 ))
 \c@lstlisting=\count550
-Package tocbasic Info: setting babel extension for `lol' on input line 27.
+Package tocbasic Info: setting babel extension for `lol' on input line 28.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
@@ -1348,51 +1348,51 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 27.
-Package biblatex Info: Reference segment=0 on input line 27.
+Package biblatex Info: Reference section=0 on input line 28.
+Package biblatex Info: Reference segment=0 on input line 28.
 <<sRGB.icc>>
-Package csquotes Info: Redefining character " on input line 53.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 53.
+Package csquotes Info: Redefining character " on input line 54.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 54.
  (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 53.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 54.
  (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<ot1.cmap>>
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 53.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 54.
  (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<oml.cmap>>
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 53.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 54.
  (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 53.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
+(Font)              <6> on input line 54.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
  (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
  (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <images/logo.pdf, id=13, 269.93045pt x 269.93045pt>
 File: images/logo.pdf Graphic file (type pdf)
 <use images/logo.pdf>
-Package pdftex.def Info: images/logo.pdf  used on input line 53.
+Package pdftex.def Info: images/logo.pdf  used on input line 54.
 (pdftex.def)             Requested size: 85.35805pt x 85.35826pt.
  [1
 
 
 
 {C:/Users/sandr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/logo.pdf>] [2]
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 53.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 54.
  (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Package csquotes Info: Redefining character " on input line 53.
+Package csquotes Info: Redefining character " on input line 54.
  [3{C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [4
 
 ] (main.toc
@@ -1401,14 +1401,14 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 7.
 Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
-Package tocbasic Info: Using my definition of `\numberline' on input line 18.
+Package tocbasic Info: Using my definition of `\numberline' on input line 19.
  [5
 
 ]
-Package tocbasic Info: Using my definition of `\numberline' on input line 41.
-Package tocbasic Info: Using my definition of `\numberline' on input line 63.
-Package tocbasic Info: Using my definition of `\numberline' on input line 68.
-Package tocbasic Info: Using my definition of `\numberline' on input line 71.
+Package tocbasic Info: Using my definition of `\numberline' on input line 40.
+Package tocbasic Info: Using my definition of `\numberline' on input line 62.
+Package tocbasic Info: Using my definition of `\numberline' on input line 67.
+Package tocbasic Info: Using my definition of `\numberline' on input line 70.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1448,13 +1448,18 @@ Package csquotes Info: Redefining character " on input line 3.
 
  (chapters/introduction.tex
 Chapter 1.
-) [1
+
+Overfull \hbox (13.49461pt too wide) in paragraph at lines 17--18
+\T1/lmr/m/n/10.95 Evaluation meth-ods are cru-cial for as-sess-ing the per-for-mance, se-cu-rity, and user-friendliness
+ []
+
+[1
 
 
 
 
 
-]
+]) [2]
 \openout2 = `chapters/background.aux'.
 
  (chapters/background.tex
@@ -1462,17 +1467,27 @@ Chapter 2.
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 136.
 (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [2
+) [3
 
 
 
 
-] [3] [4] [5] [6]) [7]
+] [4]
+<image.png, id=258, 188.3838pt x 95.3964pt>
+File: image.png Graphic file (type png)
+<use image.png>
+Package pdftex.def Info: image.png  used on input line 202.
+(pdftex.def)             Requested size: 249.24867pt x 126.22345pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5] [6 <./image.png>] [7]) [8]
 \openout2 = `chapters/casestudy.aux'.
 
  (chapters/casestudy.tex
 Chapter 3.
-) [8
+) [9
 
 
 
@@ -1480,12 +1495,12 @@ Chapter 3.
 ]
 Overfull \vbox (64.10254pt too high) has occurred while \output is active []
 
- [9]
+ [10]
 \openout2 = `chapters/results.aux'.
 
  (chapters/results.tex
 Chapter 4.
-) [10
+) [11
 
 
 
@@ -1495,7 +1510,7 @@ Chapter 4.
 
  (chapters/conclusion.tex
 Chapter 5.
-) [11
+) [12
 
 
 
@@ -1504,11 +1519,11 @@ Chapter 5.
 \openout2 = `chapters/literature.aux'.
 
  (chapters/literature.tex)
-Underfull \hbox (badness 2600) in paragraph at lines 86--86
+Underfull \hbox (badness 1496) in paragraph at lines 91--91
 []\T1/lmr/m/n/10.95 Ionos. ^^P  Die be-liebtesten JavaScript-Frameworks und -Bibliotheken^^Q (2023).
  []
 
-[12
+[13
 
 
 
@@ -1516,7 +1531,7 @@ Underfull \hbox (badness 2600) in paragraph at lines 86--86
 
 
 
-] (main.aux (front/preface.aux) (front/abstract.aux) (front/kurzfassung.aux) (chapters/introduction.aux) (chapters/background.aux) (chapters/casestudy.aux) (chapters/results.aux) (chapters/conclusion.aux) (chapters/literature.aux))
+] [14] (main.aux (front/preface.aux) (front/abstract.aux) (front/kurzfassung.aux) (chapters/introduction.aux) (chapters/background.aux) (chapters/casestudy.aux) (chapters/results.aux) (chapters/conclusion.aux) (chapters/literature.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -1526,17 +1541,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44535 strings out of 474424
- 883622 string characters out of 5741740
- 1951496 words of memory out of 5000000
- 65871 multiletter control sequences out of 15000+600000
- 630404 words of font info for 86 fonts, out of 8000000 for 9000
+ 44599 strings out of 474424
+ 885658 string characters out of 5741740
+ 1953496 words of memory out of 5000000
+ 65925 multiletter control sequences out of 15000+600000
+ 636389 words of font info for 88 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 130i,12n,145p,1149b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,11n,145p,853b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (22 pages, 449336 bytes).
+Output written on main.pdf (24 pages, 468631 bytes).
 PDF statistics:
- 590 PDF objects out of 1000 (max. 8388607)
- 104 named destinations out of 1000 (max. 500000)
- 578 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 624 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
+ 575 words of extra memory for PDF output out of 10000 (max. 10000000)
 

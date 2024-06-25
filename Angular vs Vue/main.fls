@@ -678,6 +678,15 @@ INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr10.tfm
+INPUT .\image.png
+INPUT .\image.png
+INPUT .\image.png
+INPUT .\image.png
+INPUT .\image.png
+INPUT .\image.png
+INPUT .\image.png
+INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Users\sandr\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
 INPUT .\chapters\casestudy.tex
 INPUT .\chapters\casestudy.tex
 OUTPUT chapters\casestudy.aux
