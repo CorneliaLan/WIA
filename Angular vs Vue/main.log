@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  24 JUN 2024 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  25 JUN 2024 15:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1341,36 +1341,6 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-
-Package biblatex Warning: citation 'ionos_webframeworks'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'ionos_jsframeworks'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'angular'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'vuejs'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'kinsta'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
 Package biblatex Info: Reference section=0 on input line 27.
 Package biblatex Info: Reference segment=0 on input line 27.
 <<sRGB.icc>>
@@ -1424,14 +1394,13 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 7.
 Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
-Package tocbasic Info: Using my definition of `\numberline' on input line 18.
-Package tocbasic Info: Using my definition of `\numberline' on input line 33.
+Package tocbasic Info: Using my definition of `\numberline' on input line 19.
+Package tocbasic Info: Using my definition of `\numberline' on input line 32.
  [5
 
 ]
-Package tocbasic Info: Using my definition of `\numberline' on input line 55.
-Package tocbasic Info: Using my definition of `\numberline' on input line 60.
-Package tocbasic Info: Using my definition of `\numberline' on input line 63.
+Package tocbasic Info: Using my definition of `\numberline' on input line 54.
+Package tocbasic Info: Using my definition of `\numberline' on input line 59.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1471,51 +1440,33 @@ Package csquotes Info: Redefining character " on input line 3.
 
  (./chapters/introduction.tex
 Chapter 1.
-) [1
+
+Overfull \hbox (13.49461pt too wide) in paragraph at lines 17--18
+\T1/lmr/m/n/10.95 Evaluation meth-ods are cru-cial for as-sess-ing the per-for-mance, se-cu-rity, and user-friendliness
+ []
+
+[1
 
 
 
 
 
-]
+]) [2]
 \openout2 = `chapters/background.aux'.
 
  (./chapters/background.tex
 Chapter 2.
-
-LaTeX Warning: Citation 'ionos_webframeworks' on page 2 undefined on input line 128.
-
-
-LaTeX Warning: Citation 'ionos_webframeworks' on page 2 undefined on input line 138.
-
-[2
+[3
 
 
 
 
-]
-
-LaTeX Warning: Citation 'ionos_webframeworks' on page 3 undefined on input line 146.
-
-
-LaTeX Warning: Citation 'ionos_jsframeworks' on page 3 undefined on input line 154.
-
-
-LaTeX Warning: Citation 'angular' on page 3 undefined on input line 187.
-
-[3]
-
-LaTeX Warning: Citation 'vuejs' on page 4 undefined on input line 193.
-
-
-LaTeX Warning: Citation 'kinsta' on page 4 undefined on input line 203.
-
-) [4]
+] [4] [5]) [6]
 \openout2 = `chapters/casestudy.aux'.
 
  (./chapters/casestudy.tex
 Chapter 3.
-) [5
+) [7
 
 
 
@@ -1523,12 +1474,12 @@ Chapter 3.
 ]
 Overfull \vbox (64.10254pt too high) has occurred while \output is active []
 
- [6]
+ [8]
 \openout2 = `chapters/results.aux'.
 
  (./chapters/results.tex
 Chapter 4.
-) [7
+) [9
 
 
 
@@ -1538,7 +1489,7 @@ Chapter 4.
 
  (./chapters/conclusion.tex
 Chapter 5.
-) [8
+) [10
 
 
 
@@ -1547,10 +1498,21 @@ Chapter 5.
 \openout2 = `chapters/literature.aux'.
 
  (./chapters/literature.tex)
+Overfull \hbox (2.92778pt too wide) in paragraph at lines 87--87
+[]\T1/lmr/m/n/10.95 Angular.de. ^^P  Was sind An-gu-lar und An-gu-larJS?^^Q (2017). Abgerufen am 31.05.2024.
+ []
 
-LaTeX Warning: Empty bibliography on input line 86.
 
-[9
+Overfull \hbox (17.42836pt too wide) in paragraph at lines 87--87
+[]\T1/lmr/m/n/10.95 Ionos. ^^P  Die be-liebtesten JavaScript-Frameworks und -Bibliotheken^^Q (2023). Abgerufen
+ []
+
+
+Overfull \hbox (0.93489pt too wide) in paragraph at lines 87--87
+[]\T1/lmr/m/n/10.95 Xiang Mao and Jian-nong Xin. ^^P  De-vel-op-ing Cross-platform Mo-bile and Web Apps^^Q.
+ []
+
+[11
 
 
 
@@ -1563,32 +1525,23 @@ LaTeX Warning: Empty bibliography on input line 86.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44332 strings out of 474116
- 869556 string characters out of 5743682
+ 44426 strings out of 474116
+ 872637 string characters out of 5743682
  1940187 words of memory out of 5000000
- 65722 multiletter control sequences out of 15000+600000
+ 65805 multiletter control sequences out of 15000+600000
  630039 words of font info for 85 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 130i,12n,145p,1210b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,12n,145p,914b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (19 pages, 356749 bytes).
+Output written on main.pdf (21 pages, 362085 bytes).
 PDF statistics:
- 477 PDF objects out of 1000 (max. 8388607)
- 424 compressed objects within 5 object streams
- 76 named destinations out of 1000 (max. 500000)
- 498 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 528 PDF objects out of 1000 (max. 8388607)
+ 473 compressed objects within 5 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 482 words of extra memory for PDF output out of 10000 (max. 10000000)
 

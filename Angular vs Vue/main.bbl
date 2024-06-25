@@ -1,0 +1,278 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{angular}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f6788ef47dffc280596b59fac6c5dbb6}{%
+           family={Angular.de},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6788ef47dffc280596b59fac6c5dbb6}
+      \strng{fullhash}{f6788ef47dffc280596b59fac6c5dbb6}
+      \strng{bibnamehash}{f6788ef47dffc280596b59fac6c5dbb6}
+      \strng{authorbibnamehash}{f6788ef47dffc280596b59fac6c5dbb6}
+      \strng{authornamehash}{f6788ef47dffc280596b59fac6c5dbb6}
+      \strng{authorfullhash}{f6788ef47dffc280596b59fac6c5dbb6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 31.05.2024}
+      \field{title}{Was sind Angular und AngularJS?}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://angular.de/artikel/was-ist-angular/
+      \endverb
+      \verb{url}
+      \verb https://angular.de/artikel/was-ist-angular/
+      \endverb
+    \endentry
+    \entry{cincovic2020comparison}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b6165c28a9549ca04b6f9851c8dcce1f}{%
+           family={Cincovi{'c}},
+           familyi={C\bibinitperiod},
+           given={Jelica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=206bc12bb9f0025eea5fa3ae538603f2}{%
+           family={Punt},
+           familyi={P\bibinitperiod},
+           given={Marija},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{fullhash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{bibnamehash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{authorbibnamehash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{authornamehash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{authorfullhash}{408b15faed6a11ddaafab4aa40399936}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad de Belgrade}
+      \field{title}{Comparison: Angular vs. React vs. Vue. Which framework is the best choice}
+      \field{year}{2020}
+    \endentry
+    \entry{ionos_jsframeworks}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d5137b0356ec27c5db455108c5a9192d}{%
+           family={Ionos},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{fullhash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{bibnamehash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{authorbibnamehash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{authornamehash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{authorfullhash}{d5137b0356ec27c5db455108c5a9192d}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 31.05.2024}
+      \field{title}{Die beliebtesten JavaScript-Frameworks und -Bibliotheken}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ionos.at/digitalguide/websites/web-entwicklung/beliebte-javascript-frameworks-und-bibliotheken/
+      \endverb
+      \verb{url}
+      \verb https://www.ionos.at/digitalguide/websites/web-entwicklung/beliebte-javascript-frameworks-und-bibliotheken/
+      \endverb
+    \endentry
+    \entry{ionos_webframeworks}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d5137b0356ec27c5db455108c5a9192d}{%
+           family={Ionos},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{fullhash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{bibnamehash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{authorbibnamehash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{authornamehash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{authorfullhash}{d5137b0356ec27c5db455108c5a9192d}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 31.05.2024}
+      \field{title}{Webframeworks – Überblick und Klassifizierung}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.ionos.de/digitalguide/websites/web-entwicklung/webframeworks-ein-ueberblick/
+      \endverb
+      \verb{url}
+      \verb https://www.ionos.de/digitalguide/websites/web-entwicklung/webframeworks-ein-ueberblick/
+      \endverb
+    \endentry
+    \entry{kinsta}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5c0d9df93080ef89320dadc5bd2cb28f}{%
+           family={Kinsta},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c0d9df93080ef89320dadc5bd2cb28f}
+      \strng{fullhash}{5c0d9df93080ef89320dadc5bd2cb28f}
+      \strng{bibnamehash}{5c0d9df93080ef89320dadc5bd2cb28f}
+      \strng{authorbibnamehash}{5c0d9df93080ef89320dadc5bd2cb28f}
+      \strng{authornamehash}{5c0d9df93080ef89320dadc5bd2cb28f}
+      \strng{authorfullhash}{5c0d9df93080ef89320dadc5bd2cb28f}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 31.05.2024}
+      \field{title}{Angular vs. Vue: Ein Kopf-an-Kopf-Vergleich}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://kinsta.com/de/blog/angular-vs-vue/#angular-vs-vue-hnlichkeiten-und-gemeinsamkeiten
+      \endverb
+      \verb{url}
+      \verb https://kinsta.com/de/blog/angular-vs-vue/#angular-vs-vue-hnlichkeiten-und-gemeinsamkeiten
+      \endverb
+    \endentry
+    \entry{mao2014developing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5586d2d5ae5679df1ede944a12fcc93c}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=839d91c59e3c2c0da6c72dcbc7dd2c2c}{%
+           family={Xin},
+           familyi={X\bibinitperiod},
+           given={Jiannong},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
+      \strng{fullhash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
+      \strng{bibnamehash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
+      \strng{authorbibnamehash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
+      \strng{authornamehash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
+      \strng{authorfullhash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CIGR Proceedings}
+      \field{title}{Developing Cross-platform Mobile and Web Apps}
+      \field{year}{2014}
+    \endentry
+    \entry{unctad}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b1058d3e131e74b70b23707b923df1ea}{%
+           family={{United Nations Conference on Trade and Development}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1058d3e131e74b70b23707b923df1ea}
+      \strng{fullhash}{b1058d3e131e74b70b23707b923df1ea}
+      \strng{bibnamehash}{b1058d3e131e74b70b23707b923df1ea}
+      \strng{authorbibnamehash}{b1058d3e131e74b70b23707b923df1ea}
+      \strng{authornamehash}{b1058d3e131e74b70b23707b923df1ea}
+      \strng{authorfullhash}{b1058d3e131e74b70b23707b923df1ea}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 31.05.2024}
+      \field{title}{Digital Economy Report 2019}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://unctad.org/publication/digital-economy-report-2019
+      \endverb
+      \verb{url}
+      \verb https://unctad.org/publication/digital-economy-report-2019
+      \endverb
+    \endentry
+    \entry{verma2022comparison}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6514d6fa908bc2ffb5f501bfc49bc126}{%
+           family={Verma},
+           familyi={V\bibinitperiod},
+           given={Dhruv},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6514d6fa908bc2ffb5f501bfc49bc126}
+      \strng{fullhash}{6514d6fa908bc2ffb5f501bfc49bc126}
+      \strng{bibnamehash}{6514d6fa908bc2ffb5f501bfc49bc126}
+      \strng{authorbibnamehash}{6514d6fa908bc2ffb5f501bfc49bc126}
+      \strng{authornamehash}{6514d6fa908bc2ffb5f501bfc49bc126}
+      \strng{authorfullhash}{6514d6fa908bc2ffb5f501bfc49bc126}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A comparison of web framework efficiency: performance and network analysis of modern web frameworks}
+      \field{year}{2022}
+    \endentry
+    \entry{vue}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2d8ec58babcec05d3fe8f712968de749}{%
+           family={{Vue}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{fullhash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{bibnamehash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{authorbibnamehash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{authornamehash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{authorfullhash}{2d8ec58babcec05d3fe8f712968de749}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://vuejs.org/v2/guide/}}
+      \field{note}{Accessed: 2024-06-24}
+      \field{title}{Introduction to Vue.js}
+      \field{year}{2024}
+    \endentry
+    \entry{vuejs}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f776d8fe3f0de8f24cfb91291b8a64b4}{%
+           family={Vue.js},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{f776d8fe3f0de8f24cfb91291b8a64b4}
+      \strng{fullhash}{f776d8fe3f0de8f24cfb91291b8a64b4}
+      \strng{bibnamehash}{f776d8fe3f0de8f24cfb91291b8a64b4}
+      \strng{authorbibnamehash}{f776d8fe3f0de8f24cfb91291b8a64b4}
+      \strng{authornamehash}{f776d8fe3f0de8f24cfb91291b8a64b4}
+      \strng{authorfullhash}{f776d8fe3f0de8f24cfb91291b8a64b4}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 31.05.2024}
+      \field{title}{Einführung}
+      \verb{urlraw}
+      \verb https://vuejs.org/guide/introduction.html
+      \endverb
+      \verb{url}
+      \verb https://vuejs.org/guide/introduction.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
