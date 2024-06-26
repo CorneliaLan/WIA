@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  26 JUN 2024 19:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  26 JUN 2024 23:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1228,7 +1228,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count543
-)) (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/background.aux) (./chapters/casestudy.aux) (./chapters/results.aux) (./chapters/conclusion.aux) (./chapters/literature.aux))
+)) (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/background.aux) (./chapters/casestudy.aux) (./chapters/conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -1394,13 +1394,12 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 7.
 Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
-Package tocbasic Info: Using my definition of `\numberline' on input line 19.
+Package tocbasic Info: Using my definition of `\numberline' on input line 20.
+Package tocbasic Info: Using my definition of `\numberline' on input line 41.
  [5
 
 ]
-Package tocbasic Info: Using my definition of `\numberline' on input line 40.
-Package tocbasic Info: Using my definition of `\numberline' on input line 61.
-Package tocbasic Info: Using my definition of `\numberline' on input line 66.
+Package tocbasic Info: Using my definition of `\numberline' on input line 58.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1441,7 +1440,7 @@ Package csquotes Info: Redefining character " on input line 3.
  (./chapters/introduction.tex
 Chapter 1.
 
-Overfull \hbox (13.49461pt too wide) in paragraph at lines 17--18
+Overfull \hbox (13.49461pt too wide) in paragraph at lines 21--23
 \T1/lmr/m/n/10.95 Evaluation meth-ods are cru-cial for as-sess-ing the per-for-mance, se-cu-rity, and user-friendliness
  []
 
@@ -1465,7 +1464,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 
 ] [4]
-<image.png, id=228, 188.3838pt x 95.3964pt>
+<image.png, id=214, 188.3838pt x 95.3964pt>
 File: image.png Graphic file (type png)
 <use image.png>
 Package pdftex.def Info: image.png  used on input line 202.
@@ -1494,30 +1493,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--53
 
 
 
-] [10] [11]) [12]
-\openout2 = `chapters/results.aux'.
-
- (./chapters/results.tex
-Chapter 4.
-) [13
-
-
-
-
-]
+] [10]) [11]
 \openout2 = `chapters/conclusion.aux'.
 
  (./chapters/conclusion.tex
-Chapter 5.
-) [14
+Chapter 4.
+) [12
 
 
 
 
 ]
-\openout2 = `chapters/literature.aux'.
-
- (./chapters/literature.tex)
 Overfull \hbox (17.42836pt too wide) in paragraph at lines 88--88
 []\T1/lmr/m/n/10.95 Ionos. ^^P  Die be-liebtesten JavaScript-Frameworks und -Bibliotheken^^Q (2023). Abgerufen
  []
@@ -1527,15 +1513,12 @@ Overfull \hbox (0.93489pt too wide) in paragraph at lines 88--88
 []\T1/lmr/m/n/10.95 Xiang Mao and Jian-nong Xin. ^^P  De-vel-op-ing Cross-platform Mo-bile and Web Apps^^Q.
  []
 
-[15
+[13
 
 
 
 
-
-
-
-] [16] (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/background.aux) (./chapters/casestudy.aux) (./chapters/results.aux) (./chapters/conclusion.aux) (./chapters/literature.aux))
+] [14] (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/background.aux) (./chapters/casestudy.aux) (./chapters/conclusion.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1545,18 +1528,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44522 strings out of 474116
- 875073 string characters out of 5743682
+ 44456 strings out of 474116
+ 873326 string characters out of 5743682
  1944187 words of memory out of 5000000
- 65883 multiletter control sequences out of 15000+600000
+ 65840 multiletter control sequences out of 15000+600000
  636389 words of font info for 88 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 130i,11n,145p,914b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,12n,145p,914b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (26 pages, 392231 bytes).
+Output written on main.pdf (24 pages, 390542 bytes).
 PDF statistics:
- 557 PDF objects out of 1000 (max. 8388607)
- 494 compressed objects within 5 object streams
- 99 named destinations out of 1000 (max. 500000)
- 447 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 511 PDF objects out of 1000 (max. 8388607)
+ 450 compressed objects within 5 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 391 words of extra memory for PDF output out of 10000 (max. 10000000)
 
