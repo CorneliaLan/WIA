@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{angular}{misc}{}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{angular}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=c31c335ef37283c451b18ba0dd317de1}{%
            family={{Angular}},
@@ -27,10 +27,12 @@
       }
       \strng{namehash}{c31c335ef37283c451b18ba0dd317de1}
       \strng{fullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{fullhashraw}{c31c335ef37283c451b18ba0dd317de1}
       \strng{bibnamehash}{c31c335ef37283c451b18ba0dd317de1}
       \strng{authorbibnamehash}{c31c335ef37283c451b18ba0dd317de1}
       \strng{authornamehash}{c31c335ef37283c451b18ba0dd317de1}
       \strng{authorfullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorfullhashraw}{c31c335ef37283c451b18ba0dd317de1}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
@@ -39,7 +41,7 @@
       \field{title}{Getting started with Angular}
       \field{year}{2024}
     \endentry
-    \entry{cincovic2020comparison}{article}{}
+    \entry{cincovic2020comparison}{article}{}{}
       \name{author}{2}{}{%
         {{hash=b6165c28a9549ca04b6f9851c8dcce1f}{%
            family={Cincovi{'c}},
@@ -54,10 +56,12 @@
       }
       \strng{namehash}{408b15faed6a11ddaafab4aa40399936}
       \strng{fullhash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{fullhashraw}{408b15faed6a11ddaafab4aa40399936}
       \strng{bibnamehash}{408b15faed6a11ddaafab4aa40399936}
       \strng{authorbibnamehash}{408b15faed6a11ddaafab4aa40399936}
       \strng{authornamehash}{408b15faed6a11ddaafab4aa40399936}
       \strng{authorfullhash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{authorfullhashraw}{408b15faed6a11ddaafab4aa40399936}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
@@ -72,7 +76,7 @@
       \verb https://www.eventiotic.com/eventiotic/files/Papers/URL/50173409-699e-4b17-8edb-9764ecc53160.pdf
       \endverb
     \endentry
-    \entry{ionos_jsframeworks}{article}{}
+    \entry{ionos_jsframeworks}{article}{}{}
       \name{author}{1}{}{%
         {{hash=d5137b0356ec27c5db455108c5a9192d}{%
            family={Ionos},
@@ -80,10 +84,12 @@
       }
       \strng{namehash}{d5137b0356ec27c5db455108c5a9192d}
       \strng{fullhash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{fullhashraw}{d5137b0356ec27c5db455108c5a9192d}
       \strng{bibnamehash}{d5137b0356ec27c5db455108c5a9192d}
       \strng{authorbibnamehash}{d5137b0356ec27c5db455108c5a9192d}
       \strng{authornamehash}{d5137b0356ec27c5db455108c5a9192d}
       \strng{authorfullhash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{authorfullhashraw}{d5137b0356ec27c5db455108c5a9192d}
       \field{extraname}{1}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
@@ -99,7 +105,7 @@
       \verb https://www.ionos.at/digitalguide/websites/web-entwicklung/beliebte-javascript-frameworks-und-bibliotheken/
       \endverb
     \endentry
-    \entry{ionos_webframeworks}{article}{}
+    \entry{ionos_webframeworks}{article}{}{}
       \name{author}{1}{}{%
         {{hash=d5137b0356ec27c5db455108c5a9192d}{%
            family={Ionos},
@@ -107,10 +113,12 @@
       }
       \strng{namehash}{d5137b0356ec27c5db455108c5a9192d}
       \strng{fullhash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{fullhashraw}{d5137b0356ec27c5db455108c5a9192d}
       \strng{bibnamehash}{d5137b0356ec27c5db455108c5a9192d}
       \strng{authorbibnamehash}{d5137b0356ec27c5db455108c5a9192d}
       \strng{authornamehash}{d5137b0356ec27c5db455108c5a9192d}
       \strng{authorfullhash}{d5137b0356ec27c5db455108c5a9192d}
+      \strng{authorfullhashraw}{d5137b0356ec27c5db455108c5a9192d}
       \field{extraname}{2}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
@@ -126,7 +134,7 @@
       \verb https://www.ionos.de/digitalguide/websites/web-entwicklung/webframeworks-ein-ueberblick/
       \endverb
     \endentry
-    \entry{mao2014developing}{article}{}
+    \entry{mao2014developing}{article}{}{}
       \name{author}{2}{}{%
         {{hash=5586d2d5ae5679df1ede944a12fcc93c}{%
            family={Mao},
@@ -141,10 +149,12 @@
       }
       \strng{namehash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
       \strng{fullhash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
+      \strng{fullhashraw}{0caebd0bcc8fc7e95c836d7a5e2f2527}
       \strng{bibnamehash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
       \strng{authorbibnamehash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
       \strng{authornamehash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
       \strng{authorfullhash}{0caebd0bcc8fc7e95c836d7a5e2f2527}
+      \strng{authorfullhashraw}{0caebd0bcc8fc7e95c836d7a5e2f2527}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -159,7 +169,7 @@
       \verb https://journals.sfu.ca/cigrp/index.php/Proc/article/view/150/149
       \endverb
     \endentry
-    \entry{mdn_dom}{article}{}
+    \entry{mdn_dom}{article}{}{}
       \name{author}{1}{}{%
         {{hash=eace3534eb86e51f9a1db37427425ce9}{%
            family={{MDN Web Docs}},
@@ -167,10 +177,12 @@
       }
       \strng{namehash}{eace3534eb86e51f9a1db37427425ce9}
       \strng{fullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{fullhashraw}{eace3534eb86e51f9a1db37427425ce9}
       \strng{bibnamehash}{eace3534eb86e51f9a1db37427425ce9}
       \strng{authorbibnamehash}{eace3534eb86e51f9a1db37427425ce9}
       \strng{authornamehash}{eace3534eb86e51f9a1db37427425ce9}
       \strng{authorfullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorfullhashraw}{eace3534eb86e51f9a1db37427425ce9}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -189,7 +201,7 @@
       \verb https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
       \endverb
     \endentry
-    \entry{jquery_history}{article}{}
+    \entry{jquery_history}{article}{}{}
       \name{author}{1}{}{%
         {{hash=893725ee2bba070164340ed9c2cc410d}{%
            family={{OpenJS Foundation and jQuery contributors}},
@@ -197,10 +209,12 @@
       }
       \strng{namehash}{893725ee2bba070164340ed9c2cc410d}
       \strng{fullhash}{893725ee2bba070164340ed9c2cc410d}
+      \strng{fullhashraw}{893725ee2bba070164340ed9c2cc410d}
       \strng{bibnamehash}{893725ee2bba070164340ed9c2cc410d}
       \strng{authorbibnamehash}{893725ee2bba070164340ed9c2cc410d}
       \strng{authornamehash}{893725ee2bba070164340ed9c2cc410d}
       \strng{authorfullhash}{893725ee2bba070164340ed9c2cc410d}
+      \strng{authorfullhashraw}{893725ee2bba070164340ed9c2cc410d}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
@@ -214,7 +228,7 @@
       \verb https://jquery.com/
       \endverb
     \endentry
-    \entry{unctad}{article}{}
+    \entry{unctad}{article}{}{}
       \name{author}{1}{}{%
         {{hash=b1058d3e131e74b70b23707b923df1ea}{%
            family={{United Nations Conference on Trade and Development}},
@@ -222,10 +236,12 @@
       }
       \strng{namehash}{b1058d3e131e74b70b23707b923df1ea}
       \strng{fullhash}{b1058d3e131e74b70b23707b923df1ea}
+      \strng{fullhashraw}{b1058d3e131e74b70b23707b923df1ea}
       \strng{bibnamehash}{b1058d3e131e74b70b23707b923df1ea}
       \strng{authorbibnamehash}{b1058d3e131e74b70b23707b923df1ea}
       \strng{authornamehash}{b1058d3e131e74b70b23707b923df1ea}
       \strng{authorfullhash}{b1058d3e131e74b70b23707b923df1ea}
+      \strng{authorfullhashraw}{b1058d3e131e74b70b23707b923df1ea}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labelnamesource}{author}
@@ -240,7 +256,7 @@
       \verb https://unctad.org/publication/digital-economy-report-2019
       \endverb
     \endentry
-    \entry{verma2022comparison}{article}{}
+    \entry{verma2022comparison}{article}{}{}
       \name{author}{1}{}{%
         {{hash=6514d6fa908bc2ffb5f501bfc49bc126}{%
            family={Verma},
@@ -250,10 +266,12 @@
       }
       \strng{namehash}{6514d6fa908bc2ffb5f501bfc49bc126}
       \strng{fullhash}{6514d6fa908bc2ffb5f501bfc49bc126}
+      \strng{fullhashraw}{6514d6fa908bc2ffb5f501bfc49bc126}
       \strng{bibnamehash}{6514d6fa908bc2ffb5f501bfc49bc126}
       \strng{authorbibnamehash}{6514d6fa908bc2ffb5f501bfc49bc126}
       \strng{authornamehash}{6514d6fa908bc2ffb5f501bfc49bc126}
       \strng{authorfullhash}{6514d6fa908bc2ffb5f501bfc49bc126}
+      \strng{authorfullhashraw}{6514d6fa908bc2ffb5f501bfc49bc126}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{author}
@@ -266,7 +284,7 @@
       \verb https://www.theseus.fi/bitstream/handle/10024/755038/Verma_Dhruv.pdf?sequence=2
       \endverb
     \endentry
-    \entry{vue}{misc}{}
+    \entry{vue}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=2d8ec58babcec05d3fe8f712968de749}{%
            family={{Vue}},
@@ -274,10 +292,12 @@
       }
       \strng{namehash}{2d8ec58babcec05d3fe8f712968de749}
       \strng{fullhash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{fullhashraw}{2d8ec58babcec05d3fe8f712968de749}
       \strng{bibnamehash}{2d8ec58babcec05d3fe8f712968de749}
       \strng{authorbibnamehash}{2d8ec58babcec05d3fe8f712968de749}
       \strng{authornamehash}{2d8ec58babcec05d3fe8f712968de749}
       \strng{authorfullhash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{authorfullhashraw}{2d8ec58babcec05d3fe8f712968de749}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{author}
@@ -286,7 +306,7 @@
       \field{title}{Introduction to Vue.js}
       \field{year}{2024}
     \endentry
-    \entry{vuejs2024}{online}{}
+    \entry{vuejs2024}{online}{}{}
       \name{author}{1}{}{%
         {{hash=4b82d10338f9a799b31c8c7b955ecf70}{%
            family={Contributors},
@@ -296,10 +316,12 @@
       }
       \strng{namehash}{4b82d10338f9a799b31c8c7b955ecf70}
       \strng{fullhash}{4b82d10338f9a799b31c8c7b955ecf70}
+      \strng{fullhashraw}{4b82d10338f9a799b31c8c7b955ecf70}
       \strng{bibnamehash}{4b82d10338f9a799b31c8c7b955ecf70}
       \strng{authorbibnamehash}{4b82d10338f9a799b31c8c7b955ecf70}
       \strng{authornamehash}{4b82d10338f9a799b31c8c7b955ecf70}
       \strng{authorfullhash}{4b82d10338f9a799b31c8c7b955ecf70}
+      \strng{authorfullhashraw}{4b82d10338f9a799b31c8c7b955ecf70}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
@@ -318,7 +340,7 @@
       \verb https://vuejs.org/
       \endverb
     \endentry
-    \entry{moldstud2024}{online}{}
+    \entry{moldstud2024}{online}{}{}
       \name{author}{1}{}{%
         {{hash=2649b3e2b6a206af36bc3a713a9dc2de}{%
            family={MoldStud},
@@ -326,10 +348,12 @@
       }
       \strng{namehash}{2649b3e2b6a206af36bc3a713a9dc2de}
       \strng{fullhash}{2649b3e2b6a206af36bc3a713a9dc2de}
+      \strng{fullhashraw}{2649b3e2b6a206af36bc3a713a9dc2de}
       \strng{bibnamehash}{2649b3e2b6a206af36bc3a713a9dc2de}
       \strng{authorbibnamehash}{2649b3e2b6a206af36bc3a713a9dc2de}
       \strng{authornamehash}{2649b3e2b6a206af36bc3a713a9dc2de}
       \strng{authorfullhash}{2649b3e2b6a206af36bc3a713a9dc2de}
+      \strng{authorfullhashraw}{2649b3e2b6a206af36bc3a713a9dc2de}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -348,7 +372,7 @@
       \verb https://moldstud.com/articles/p-creating-dynamic-web-content-with-javascript-and-jquery
       \endverb
     \endentry
-    \entry{mdn-js-guide}{online}{}
+    \entry{mdn-js-guide}{online}{}{}
       \name{author}{1}{}{%
         {{hash=c1b980c17e1507576f51c7d33644fc19}{%
            family={Network},
@@ -358,10 +382,12 @@
       }
       \strng{namehash}{c1b980c17e1507576f51c7d33644fc19}
       \strng{fullhash}{c1b980c17e1507576f51c7d33644fc19}
+      \strng{fullhashraw}{c1b980c17e1507576f51c7d33644fc19}
       \strng{bibnamehash}{c1b980c17e1507576f51c7d33644fc19}
       \strng{authorbibnamehash}{c1b980c17e1507576f51c7d33644fc19}
       \strng{authornamehash}{c1b980c17e1507576f51c7d33644fc19}
       \strng{authorfullhash}{c1b980c17e1507576f51c7d33644fc19}
+      \strng{authorfullhashraw}{c1b980c17e1507576f51c7d33644fc19}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{author}
@@ -375,7 +401,7 @@
       \verb https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
       \endverb
     \endentry
-    \entry{angular-io}{online}{}
+    \entry{angular-io}{online}{}{}
       \name{author}{1}{}{%
         {{hash=50f94ad5105e03177dcfc96b19a0fdfa}{%
            family={Team},
@@ -385,10 +411,12 @@
       }
       \strng{namehash}{50f94ad5105e03177dcfc96b19a0fdfa}
       \strng{fullhash}{50f94ad5105e03177dcfc96b19a0fdfa}
+      \strng{fullhashraw}{50f94ad5105e03177dcfc96b19a0fdfa}
       \strng{bibnamehash}{50f94ad5105e03177dcfc96b19a0fdfa}
       \strng{authorbibnamehash}{50f94ad5105e03177dcfc96b19a0fdfa}
       \strng{authornamehash}{50f94ad5105e03177dcfc96b19a0fdfa}
       \strng{authorfullhash}{50f94ad5105e03177dcfc96b19a0fdfa}
+      \strng{authorfullhashraw}{50f94ad5105e03177dcfc96b19a0fdfa}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
