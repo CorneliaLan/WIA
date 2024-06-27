@@ -38,7 +38,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://angular.io/docs}}
-      \field{note}{Accessed: 2024-06-24}
       \field{title}{Getting started with Angular}
       \field{year}{2024}
     \endentry
@@ -70,6 +69,12 @@
       \field{journaltitle}{Universidad de Belgrade}
       \field{title}{Comparison: Angular vs. React vs. Vue. Which framework is the best choice}
       \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.eventiotic.com/eventiotic/files/Papers/URL/50173409-699e-4b17-8edb-9764ecc53160.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eventiotic.com/eventiotic/files/Papers/URL/50173409-699e-4b17-8edb-9764ecc53160.pdf
+      \endverb
     \endentry
     \entry{ionos_jsframeworks}{article}{}{}
       \name{author}{1}{}{%
@@ -157,6 +162,12 @@
       \field{journaltitle}{CIGR Proceedings}
       \field{title}{Developing Cross-platform Mobile and Web Apps}
       \field{year}{2014}
+      \verb{urlraw}
+      \verb https://journals.sfu.ca/cigrp/index.php/Proc/article/view/150/149
+      \endverb
+      \verb{url}
+      \verb https://journals.sfu.ca/cigrp/index.php/Proc/article/view/150/149
+      \endverb
     \endentry
     \entry{mdn_dom}{article}{}{}
       \name{author}{1}{}{%
@@ -266,7 +277,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A comparison of web framework efficiency: performance and network analysis of modern web frameworks}
-      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.theseus.fi/bitstream/handle/10024/755038/Verma_Dhruv.pdf?sequence=2
+      \endverb
+      \verb{url}
+      \verb https://www.theseus.fi/bitstream/handle/10024/755038/Verma_Dhruv.pdf?sequence=2
+      \endverb
     \endentry
     \entry{vue}{misc}{}{}
       \name{author}{1}{}{%
@@ -287,7 +303,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://vuejs.org/v2/guide/}}
-      \field{note}{Accessed: 2024-06-24}
       \field{title}{Introduction to Vue.js}
       \field{year}{2024}
     \endentry
