@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  27 JUN 2024 14:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  27 JUN 2024 14:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1340,17 +1340,87 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl
+ (./main.bbl)
 
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                jquery_history
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
+Package biblatex Warning: citation 'unctad'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
 
-)
+
+Package biblatex Warning: citation 'mao2014developing'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'verma2022comparison'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'ionos_webframeworks'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'ionos_jsframeworks'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'mdn_dom'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
 
 Package biblatex Warning: citation 'jquery_history'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'moldstud2024'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'angular'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'vue'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'cincovic2020comparison'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'mdn-js-guide'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'angular-io'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'vuejs2024'
 (biblatex)                was not found at all in the .bbl file,
 (biblatex)                bibliography labels cannot be generated,
 (biblatex)                please correct the citation.
@@ -1454,6 +1524,28 @@ Package csquotes Info: Redefining character " on input line 3.
 
  (./chapters/introduction.tex
 Chapter 1.
+
+LaTeX Warning: Citation 'unctad' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'mao2014developing' on page 1 undefined on input line 14.
+
+
+Overfull \hbox (36.20866pt too wide) in paragraph at lines 13--15
+\T1/lmr/m/n/10.95 ap-pli-ca-tions per-form con-sis-tently and ef-fi-ciently across dif-fer-ent de-vices [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'verma2022comparison' on page 1 undefined on input line 18.
+
+
+Overfull \hbox (76.4715pt too wide) in paragraph at lines 17--19
+\T1/lmr/m/n/10.95 dis-ad-van-tages in terms of per-for-mance, main-tain-abil-ity, and user-friendliness [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'verma2022comparison' on page 1 undefined on input line 22.
+
 ) [1
 
 
@@ -1465,29 +1557,90 @@ Chapter 1.
 
  (./chapters/background.tex
 Chapter 2.
+
+LaTeX Warning: Citation 'ionos_webframeworks' on page 2 undefined on input line 128.
+
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 135.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [2
+)
+
+LaTeX Warning: Citation 'ionos_webframeworks' on page 2 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'ionos_webframeworks' on page 2 undefined on input line 147.
+
+[2
 
 
 
 
 ]
 
+LaTeX Warning: Citation 'ionos_jsframeworks' on page 3 undefined on input line 152.
+
+
+LaTeX Warning: Citation 'mdn_dom' on page 3 undefined on input line 154.
+
+
 LaTeX Warning: Citation 'jquery_history' on page 3 undefined on input line 164.
 
 [3]
-<image.png, id=209, 188.3838pt x 95.3964pt>
+
+LaTeX Warning: Citation 'moldstud2024' on page 4 undefined on input line 166.
+
+
+Overfull \hbox (3.467pt too wide) in paragraph at lines 166--167
+\T1/lmr/m/n/10.95 son-al-ized, en-gag-ing ex-pe-ri-ences that cater to mod-ern user ex-pec-ta-tions [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'verma2022comparison' on page 4 undefined on input line 177.
+
+
+Overfull \hbox (24.15665pt too wide) in paragraph at lines 177--178
+\T1/lmr/m/n/10.95 tures that are par-tic-u-larly ad-van-ta-geous for smaller-scale projects [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'angular' on page 4 undefined on input line 180.
+
+
+LaTeX Warning: Citation 'vue' on page 4 undefined on input line 180.
+
+
+LaTeX Warning: Citation 'cincovic2020comparison' on page 4 undefined on input line 183.
+
+<image.png, id=185, 188.3838pt x 95.3964pt>
 File: image.png Graphic file (type png)
 <use image.png>
-Package pdftex.def Info: image.png  used on input line 187.
+Package pdftex.def Info: image.png  used on input line 191.
 (pdftex.def)             Requested size: 249.24867pt x 126.22345pt.
+
+LaTeX Warning: Citation 'cincovic2020comparison' on page 4 undefined on input line 192.
+
+
+LaTeX Warning: Citation 'cincovic2020comparison' on page 4 undefined on input line 192.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4] [5 <./image.png>] [6]) [7] [8]
+[4]
+
+LaTeX Warning: Citation 'mdn-js-guide' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'angular-io' on page 5 undefined on input line 239.
+
+
+LaTeX Warning: Citation 'vuejs2024' on page 5 undefined on input line 251.
+
+
+Overfull \hbox (3.42871pt too wide) in paragraph at lines 251--252
+\T1/lmr/m/n/10.95 scale ap-pli-ca-tions, of-fer-ing flex-i-bil-ity in us-age based on project re-quire-ments [[]]. 
+ []
+
+[5 <./image.png>] [6]) [7]
 \openout2 = `chapters/casestudy.aux'.
 
  (./chapters/casestudy.tex
@@ -1502,17 +1655,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--53
 
  []
 
-[9
+[8
 
 
 
 
-] [10]) [11]
+] [9]) [10]
 \openout2 = `chapters/conclusion.aux'.
 
  (./chapters/conclusion.tex
 Chapter 4.
-) [12
+) [11
 
 
 
@@ -1521,40 +1674,48 @@ Chapter 4.
 \openout2 = `chapters/literature.aux'.
 
  (./chapters/literature.tex)
-Underfull \hbox (badness 1496) in paragraph at lines 88--88
-[]\T1/lmr/m/n/10.95 Ionos. ^^P  Die be-liebtesten JavaScript-Frameworks und -Bibliotheken^^Q (2023).
- []
 
-[13
+LaTeX Warning: Empty bibliography on input line 88.
 
+[12
 
 
 
 
 
 
-] [14] (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/background.aux) (./chapters/casestudy.aux) (./chapters/conclusion.aux) (./chapters/literature.aux))
+
+] (./main.aux (./front/preface.aux) (./front/abstract.aux) (./front/kurzfassung.aux) (./chapters/introduction.aux) (./chapters/background.aux) (./chapters/casestudy.aux) (./chapters/conclusion.aux) (./chapters/literature.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44468 strings out of 474116
- 873910 string characters out of 5743682
- 1954187 words of memory out of 5000000
- 65853 multiletter control sequences out of 15000+600000
+ 44342 strings out of 474116
+ 869894 string characters out of 5743682
+ 1940187 words of memory out of 5000000
+ 65744 multiletter control sequences out of 15000+600000
  636389 words of font info for 88 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  130i,12n,145p,1074b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (24 pages, 390542 bytes).
+Output written on main.pdf (22 pages, 381502 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 443 compressed objects within 5 object streams
- 82 named destinations out of 1000 (max. 500000)
- 399 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 359 compressed objects within 4 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 383 words of extra memory for PDF output out of 10000 (max. 10000000)
 
