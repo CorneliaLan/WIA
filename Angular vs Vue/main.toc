@@ -32,7 +32,6 @@
 \contentsline {subsection}{\numberline {2.6.2}Developer-Friendliness}{7}{subsection.2.6.2}%
 \contentsline {subsection}{\numberline {2.6.3}Community Support}{8}{subsection.2.6.3}%
 \contentsline {subsection}{\numberline {2.6.4}Ecosystem}{8}{subsection.2.6.4}%
-\contentsline {section}{\numberline {2.7}Conclusion}{8}{section.2.7}%
 \contentsline {chapter}{\numberline {3}Case Study}{9}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Introduction}{9}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Objective}{9}{subsection.3.1.1}%
