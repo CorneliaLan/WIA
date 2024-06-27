@@ -22,12 +22,12 @@
 \contentsline {section}{\numberline {2.2}Introduction to JavaScript Web Application Frameworks and Dynamic Web Content}{4}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Benefits of Dynamic Web Content}{4}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Implementing Dynamic Web Content}{4}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Comparison Criteria - M}{5}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Performance}{5}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Developer-friendliness}{5}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Community Support}{5}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}JavaScript for Complex Web Applications}{6}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Relevant JavaScript Web Application Frameworks}{6}{section.2.5}%
+\contentsline {section}{\numberline {2.3}Relevant JavaScript Web Application Frameworks}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Comparison Criteria - M}{5}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Performance}{5}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Developer-friendliness}{5}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Community Support}{5}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}JavaScript for Complex Web Applications}{6}{section.2.5}%
 \contentsline {subsection}{\numberline {2.5.1}Angular}{6}{subsection.2.5.1}%
 \contentsline {subsection}{\numberline {2.5.2}Vue}{6}{subsection.2.5.2}%
 \contentsline {section}{\numberline {2.6}Vue vs. Angular: A Detailed Comparison}{7}{section.2.6}%

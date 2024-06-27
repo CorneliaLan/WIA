@@ -190,6 +190,33 @@
       \verb https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
       \endverb
     \endentry
+    \entry{jquery_history}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=893725ee2bba070164340ed9c2cc410d}{%
+           family={{OpenJS Foundation and jQuery contributors}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{893725ee2bba070164340ed9c2cc410d}
+      \strng{fullhash}{893725ee2bba070164340ed9c2cc410d}
+      \strng{fullhashraw}{893725ee2bba070164340ed9c2cc410d}
+      \strng{bibnamehash}{893725ee2bba070164340ed9c2cc410d}
+      \strng{authorbibnamehash}{893725ee2bba070164340ed9c2cc410d}
+      \strng{authornamehash}{893725ee2bba070164340ed9c2cc410d}
+      \strng{authorfullhash}{893725ee2bba070164340ed9c2cc410d}
+      \strng{authorfullhashraw}{893725ee2bba070164340ed9c2cc410d}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{jQuery}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://jquery.com/
+      \endverb
+      \verb{url}
+      \verb https://jquery.com/
+      \endverb
+    \endentry
     \entry{unctad}{article}{}{}
       \name{author}{1}{}{%
         {{hash=b1058d3e131e74b70b23707b923df1ea}{%
@@ -394,7 +421,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{jquery_history}
 \endrefsection
 \endinput
 
