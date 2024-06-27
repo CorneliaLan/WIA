@@ -512,6 +512,9 @@ INPUT chapters/casestudy.aux
 INPUT ./chapters/conclusion.aux
 INPUT ./chapters/conclusion.aux
 INPUT chapters/conclusion.aux
+INPUT ./chapters/literature.aux
+INPUT ./chapters/literature.aux
+INPUT chapters/literature.aux
 OUTPUT main.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -687,6 +690,12 @@ OUTPUT chapters/conclusion.aux
 INPUT ./chapters/conclusion.tex
 INPUT ./chapters/conclusion.tex
 INPUT chapters/conclusion.tex
+INPUT ./chapters/literature.tex
+INPUT ./chapters/literature.tex
+OUTPUT chapters/literature.aux
+INPUT ./chapters/literature.tex
+INPUT ./chapters/literature.tex
+INPUT chapters/literature.tex
 INPUT main.aux
 INPUT ./front/preface.aux
 INPUT ./front/preface.aux
@@ -709,6 +718,9 @@ INPUT chapters/casestudy.aux
 INPUT ./chapters/conclusion.aux
 INPUT ./chapters/conclusion.aux
 INPUT chapters/conclusion.aux
+INPUT ./chapters/literature.aux
+INPUT ./chapters/literature.aux
+INPUT chapters/literature.aux
 INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
