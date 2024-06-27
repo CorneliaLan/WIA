@@ -662,10 +662,6 @@ OUTPUT chapters/background.aux
 INPUT ./chapters/background.tex
 INPUT ./chapters/background.tex
 INPUT chapters/background.tex
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ts1-lmr10.tfm
 INPUT ./images/image.png
 INPUT ./images/image.png
 INPUT ./images/image.png
