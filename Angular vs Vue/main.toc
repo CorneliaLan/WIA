@@ -55,3 +55,5 @@
 \contentsline {section}{\numberline {4.2}Recommendations}{11}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Future Outlook}{11}{section.4.3}%
 \contentsline {chapter}{References}{12}{appendix*.7}%
+\contentsline {section}{Literature}{12}{section*.8}%
+\contentsline {section}{Online sources}{13}{section*.9}%
