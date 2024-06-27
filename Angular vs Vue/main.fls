@@ -671,11 +671,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ts1-lmr10.tfm
-INPUT ./image.png
-INPUT ./image.png
-INPUT ./image.png
-INPUT ./image.png
-INPUT ./image.png
+INPUT ./images/image.png
+INPUT ./images/image.png
+INPUT ./images/image.png
+INPUT ./images/image.png
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT ./chapters/casestudy.tex

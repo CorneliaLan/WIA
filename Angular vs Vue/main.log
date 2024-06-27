@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  27 JUN 2024 14:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  27 JUN 2024 14:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1611,11 +1611,11 @@ LaTeX Warning: Citation 'vue' on page 4 undefined on input line 180.
 
 LaTeX Warning: Citation 'cincovic2020comparison' on page 4 undefined on input line 183.
 
-<image.png, id=185, 188.3838pt x 95.3964pt>
-File: image.png Graphic file (type png)
-<use image.png>
-Package pdftex.def Info: image.png  used on input line 191.
-(pdftex.def)             Requested size: 249.24867pt x 126.22345pt.
+<images/image.png, id=185, 839.135pt x 493.845pt>
+File: images/image.png Graphic file (type png)
+<use images/image.png>
+Package pdftex.def Info: images/image.png  used on input line 191.
+(pdftex.def)             Requested size: 249.24867pt x 146.68523pt.
 
 LaTeX Warning: Citation 'cincovic2020comparison' on page 4 undefined on input line 192.
 
@@ -1640,7 +1640,7 @@ Overfull \hbox (3.42871pt too wide) in paragraph at lines 251--252
 \T1/lmr/m/n/10.95 scale ap-pli-ca-tions, of-fer-ing flex-i-bil-ity in us-age based on project re-quire-ments [[]]. 
  []
 
-[5 <./image.png>] [6]) [7]
+[5 <./images/image.png>] [6]) [7]
 \openout2 = `chapters/casestudy.aux'.
 
  (./chapters/casestudy.tex
@@ -1704,15 +1704,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44342 strings out of 474116
- 869894 string characters out of 5743682
+ 44344 strings out of 474116
+ 869973 string characters out of 5743682
  1940187 words of memory out of 5000000
- 65744 multiletter control sequences out of 15000+600000
+ 65746 multiletter control sequences out of 15000+600000
  636389 words of font info for 88 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  130i,12n,145p,1074b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (22 pages, 381502 bytes).
+Output written on main.pdf (22 pages, 389725 bytes).
 PDF statistics:
  417 PDF objects out of 1000 (max. 8388607)
  359 compressed objects within 4 object streams
