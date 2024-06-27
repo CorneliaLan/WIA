@@ -36,7 +36,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://angular.io/docs}}
-      \field{note}{Accessed: 2024-06-24}
       \field{title}{Getting started with Angular}
       \field{year}{2024}
     \endentry
@@ -63,6 +62,7 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.eventiotic.com/eventiotic/files/Papers/URL/50173409-699e-4b17-8edb-9764ecc53160.pdf}}
       \field{journaltitle}{Universidad de Belgrade}
       \field{title}{Comparison: Angular vs. React vs. Vue. Which framework is the best choice}
       \field{year}{2020}
@@ -222,6 +222,7 @@
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.theseus.fi/bitstream/handle/10024/755038/Verma_Dhruv.pdf?sequence=2}}
       \field{title}{A comparison of web framework efficiency: performance and network analysis of modern web frameworks}
       \field{year}{2022}
     \endentry
@@ -242,7 +243,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://vuejs.org/v2/guide/}}
-      \field{note}{Accessed: 2024-06-24}
       \field{title}{Introduction to Vue.js}
       \field{year}{2024}
     \endentry

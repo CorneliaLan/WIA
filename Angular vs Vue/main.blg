@@ -1,17 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[47] biber-darwin:340> INFO - === Thu Jun 27, 2024, 14:08:46
+[46] biber-darwin:340> INFO - === Thu Jun 27, 2024, 14:49:16
 [57] Biber.pm:419> INFO - Reading 'main.bcf'
-[115] Biber.pm:979> INFO - Found 14 citekeys in bib section 0
-[125] Biber.pm:4419> INFO - Processing section 0
-[133] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
-[134] bibtex.pm:1713> INFO - LaTeX decoding ...
-[141] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[196] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[197] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[197] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[198] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[210] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[213] bbl.pm:763> INFO - Output to main.bbl
-[213] Biber.pm:131> WARN - I didn't find a database entry for 'jquery_history' (section 0)
-[213] Biber.pm:133> INFO - WARNINGS: 1
+[113] Biber.pm:979> INFO - Found 14 citekeys in bib section 0
+[123] Biber.pm:4419> INFO - Processing section 0
+[129] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[130] bibtex.pm:1713> INFO - LaTeX decoding ...
+[138] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[193] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[193] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[193] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[193] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[204] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[207] bbl.pm:763> INFO - Output to main.bbl
+[207] Biber.pm:131> WARN - I didn't find a database entry for 'jquery_history' (section 0)
+[207] Biber.pm:133> INFO - WARNINGS: 1
