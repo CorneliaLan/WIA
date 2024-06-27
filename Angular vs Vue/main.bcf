@@ -2405,15 +2405,15 @@
     <bcf:citekey order="7" intorder="1">ionos_webframeworks</bcf:citekey>
     <bcf:citekey order="8" intorder="1">ionos_jsframeworks</bcf:citekey>
     <bcf:citekey order="9" intorder="1">mdn_dom</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">moldstud2024</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">verma2022comparison</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">angular</bcf:citekey>
-    <bcf:citekey order="12" intorder="2">vue</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">cincovic2020comparison</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">mdn-js-guide</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">angular-io</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">vuejs2024</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">kinsta</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">jquery_history</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">moldstud2024</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">verma2022comparison</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">angular</bcf:citekey>
+    <bcf:citekey order="13" intorder="2">vue</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">cincovic2020comparison</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">mdn-js-guide</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">angular-io</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">vuejs2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
