@@ -19,6 +19,63 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{angular}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=c31c335ef37283c451b18ba0dd317de1}{%
+           family={{Angular}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{fullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{fullhashraw}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{bibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorbibnamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authornamehash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorfullhash}{c31c335ef37283c451b18ba0dd317de1}
+      \strng{authorfullhashraw}{c31c335ef37283c451b18ba0dd317de1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://angular.io/docs}}
+      \field{title}{Getting started with Angular}
+      \field{year}{2024}
+    \endentry
+    \entry{cincovic2020comparison}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b6165c28a9549ca04b6f9851c8dcce1f}{%
+           family={Cincovi{'c}},
+           familyi={C\bibinitperiod},
+           given={Jelica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=206bc12bb9f0025eea5fa3ae538603f2}{%
+           family={Punt},
+           familyi={P\bibinitperiod},
+           given={Marija},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{fullhash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{fullhashraw}{408b15faed6a11ddaafab4aa40399936}
+      \strng{bibnamehash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{authorbibnamehash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{authornamehash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{authorfullhash}{408b15faed6a11ddaafab4aa40399936}
+      \strng{authorfullhashraw}{408b15faed6a11ddaafab4aa40399936}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad de Belgrade}
+      \field{title}{Comparison: Angular vs. React vs. Vue. Which framework is the best choice}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.eventiotic.com/eventiotic/files/Papers/URL/50173409-699e-4b17-8edb-9764ecc53160.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eventiotic.com/eventiotic/files/Papers/URL/50173409-699e-4b17-8edb-9764ecc53160.pdf
+      \endverb
+    \endentry
     \entry{ionos_jsframeworks}{article}{}{}
       \name{author}{1}{}{%
         {{hash=d5137b0356ec27c5db455108c5a9192d}{%
@@ -226,6 +283,28 @@
       \verb{url}
       \verb https://www.theseus.fi/bitstream/handle/10024/755038/Verma_Dhruv.pdf?sequence=2
       \endverb
+    \endentry
+    \entry{vue}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=2d8ec58babcec05d3fe8f712968de749}{%
+           family={{Vue}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{fullhash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{fullhashraw}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{bibnamehash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{authorbibnamehash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{authornamehash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{authorfullhash}{2d8ec58babcec05d3fe8f712968de749}
+      \strng{authorfullhashraw}{2d8ec58babcec05d3fe8f712968de749}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://vuejs.org/v2/guide/}}
+      \field{title}{Introduction to Vue.js}
+      \field{year}{2024}
     \endentry
     \entry{vuejs2024}{online}{}{}
       \name{author}{1}{}{%

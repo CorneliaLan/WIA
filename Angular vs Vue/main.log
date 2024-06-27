@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  27 JUN 2024 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  27 JUN 2024 17:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1401,12 +1401,13 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 7.
 Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
-Package tocbasic Info: Using my definition of `\numberline' on input line 32.
+Package tocbasic Info: Using my definition of `\numberline' on input line 17.
+Package tocbasic Info: Using my definition of `\numberline' on input line 35.
  [5
 
 ]
-Package tocbasic Info: Using my definition of `\numberline' on input line 49.
-Package tocbasic Info: Using my definition of `\numberline' on input line 53.
+Package tocbasic Info: Using my definition of `\numberline' on input line 52.
+Package tocbasic Info: Using my definition of `\numberline' on input line 56.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1456,18 +1457,26 @@ Chapter 1.
 \openout2 = `chapters/background.aux'.
 
  (chapters/background.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 134.
- (C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+Chapter 2.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 136.
+(C:\Users\sandr\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [3
 
 
 
-] [4] [5] [6]) [7]
+
+] [4] [5]
+<images/image.png, id=218, 839.135pt x 493.845pt>
+File: images/image.png Graphic file (type png)
+<use images/image.png>
+Package pdftex.def Info: images/image.png  used on input line 198.
+(pdftex.def)             Requested size: 249.24867pt x 146.68523pt.
+ [6 <./images/image.png>] [7]) [8]
 \openout2 = `chapters/casestudy.aux'.
 
  (chapters/casestudy.tex
-Chapter 2.
+Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 43--45
 
@@ -1478,17 +1487,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--53
 
  []
 
-[8
+[9
 
 
 
 
-] [9]) [10]
+] [10]) [11]
 \openout2 = `chapters/conclusion.aux'.
 
  (chapters/conclusion.tex
-Chapter 3.
-) [11
+Chapter 4.
+) [12
 
 
 
@@ -1501,7 +1510,7 @@ Underfull \hbox (badness 1496) in paragraph at lines 88--88
 []\T1/lmr/m/n/10.95 Ionos. ^^P  Die be-liebtesten JavaScript-Frameworks und -Bibliotheken^^Q (2023).
  []
 
-[12
+[13
 
 
 
@@ -1509,7 +1518,7 @@ Underfull \hbox (badness 1496) in paragraph at lines 88--88
 
 
 
-] [13] (main.aux (front/preface.aux) (front/abstract.aux) (front/kurzfassung.aux) (chapters/introduction.aux) (chapters/background.aux) (chapters/casestudy.aux) (chapters/conclusion.aux) (chapters/literature.aux))
+] [14] (main.aux (front/preface.aux) (front/abstract.aux) (front/kurzfassung.aux) (chapters/introduction.aux) (chapters/background.aux) (chapters/casestudy.aux) (chapters/conclusion.aux) (chapters/literature.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -1519,17 +1528,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44474 strings out of 474424
- 883042 string characters out of 5741740
- 1956496 words of memory out of 5000000
- 65847 multiletter control sequences out of 15000+600000
- 630404 words of font info for 86 fonts, out of 8000000 for 9000
+ 44526 strings out of 474424
+ 884341 string characters out of 5741740
+ 1954496 words of memory out of 5000000
+ 65889 multiletter control sequences out of 15000+600000
+ 636389 words of font info for 88 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 130i,11n,145p,968b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,12n,145p,1013b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (23 pages, 438459 bytes).
+Output written on main.pdf (24 pages, 468032 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 362 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 502 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 391 words of extra memory for PDF output out of 10000 (max. 10000000)
 

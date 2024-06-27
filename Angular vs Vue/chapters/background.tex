@@ -120,6 +120,8 @@
 % CSS: Cascading Style Sheets (eine Stylesheet-Sprache für die Gestaltung von Dokumenten)
 
 
+\chapter{Theoretical Background}
+
 \section{Web Frameworks}
 
 Frameworks already contain numerous functions in software development as proposed solutions for individual problems faced by various developers. This way, they do not have to start from scratch whenever they want to write new software. A framework is a program skeleton that serves as a foundation for software development.
@@ -146,6 +148,7 @@ Web frameworks offer many advantages, but they also come with some disadvantages
     \item \textbf{Security Risks:} Publicly accessible source code can pose security risks for enterprise applications~\cite{ionos_webframeworks}.
 \end{itemize}
 
+\section{Introduction to JavaScript Web Application Frameworks and Dynamic Web Content}
 
 JavaScript is a versatile programming language particularly suited for work in web browsers. Originally developed by Netscape, it has become one of the most widely used programming languages on the web, enabling developers to create dynamic and interactive content by manipulating the Document Object Model (DOM). Direct manipulation of the DOM can be challenging, which is where JavaScript frameworks and libraries come into play. They provide tools to simplify these and other aspects of programming, making JavaScript frameworks especially suitable for developing complex web applications. These frameworks offer a structured approach and pre-built components, enabling more efficient development once the concepts and guidelines of a particular framework are mastered~\cite{ionos_jsframeworks}.
 
@@ -163,18 +166,6 @@ jQuery is a lightweight, fast, and feature-rich JavaScript library renowned for 
 
 By leveraging JavaScript and jQuery for dynamic web content, websites can offer personalized, engaging experiences that cater to modern user expectations~\cite{moldstud2024}.
 
-\section{Relevant JavaScript Web Application Frameworks}
-
-Several JavaScript Web Application Frameworks are popular for developing web applications, each with its unique features and strengths. This section provides a brief overview of two of the most relevant frameworks, Vue.js and Angular, and explains why they are examined in detail.
-
-
-When evaluating web development frameworks, metrics play a crucial role as they enable an objective analysis of performance and efficiency. By comparing load times, responsiveness, and resource utilization, frameworks like Angular and Vue can be assessed in various scenarios to determine their performance.
-
-\subsection{Performance}
-
-\subsection{Developer-friendliness}
-
-\subsection{Community Support}
 \section{JavaScript for Complex Web Applications}
 
 JavaScript is well-suited for complex web applications due to its versatility and the powerful features of modern JavaScript frameworks. These frameworks provide a structured environment for development, making it easier to manage large codebases and maintain code quality.
@@ -185,6 +176,64 @@ JavaScript is well-suited for complex web applications due to its versatility an
     \item \textbf{Dart:} Developed by Google, Dart is used in conjunction with the Flutter framework for building web and mobile apps.
     \item \textbf{Elm:} A functional language that compiles to JavaScript, focused on simplicity and quality tooling~\cite{mdn-js-guide}.
 \end{itemize}
+
+\section {Comparison Criteria}
+
+When evaluating web development frameworks, metrics play a crucial role as they enable an objective analysis of performance and efficiency. By comparing load times, responsiveness, and resource utilization, frameworks like Angular and Vue can be assessed in various scenarios to determine their performance.
+
+\subsection{Performance}
+Performance metrics are measured using the developer console, focusing on loading times and responsiveness. Loading times are assessed by recording the time taken from the start of the page load until the application is fully interactive. Responsiveness is evaluated by measuring the time taken for the application to react to user inputs and interactions after the initial load, ensuring minimal delay and smooth performance.
+\subsection{Developer-friendliness}
+Angular provides a structured environment with an array of features, complemented by detailed documentation and a well-established community, as outlined in the official Angular documentation. In contrast, Vue is noted for its straightforward integration and clear syntax, which enhances ease of use and adaptability in various project sizes, according to the official Vue.js documentation~\cite{angular, vue}.
+
+\subsection{Community Support}
+Community support is essential for the ongoing development and troubleshooting of software frameworks. This is underscored by a study conducted by Jelica Cincović and Marija Punt, which analyzed community engagement through GitHub repository statistics. According to their findings, presented in the graph below, React commands the largest community support, with Angular and Vue also showing significant but smaller communities~\cite{cincovic2020comparison}.
+% \centering
+% \includegraphics[width=0.6\textwidth]{image.png}
+% \captionof{figure}{Number of GitHub repositories by frameworks~\cite{cincovic2020comparison}}
+% \label{fig:github_repos}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.6\textwidth]{image.png}
+    \caption{Number of GitHub repositories by frameworks~\cite{cincovic2020comparison}}
+    \label{fig:github_repos}
+\end{figure}
+    
+% \begin{figure}[h]
+% \centering
+% \includegraphics[width=0.6\textwidth]{image.png}
+% \caption{Number of GitHub repositories by frameworks.}
+% \label{fig
+% }
+% \end{figure}
+% Active and engaged community support is crucial for framework development and bug fixing. Referring to the study by Jelica Cincović and Marija Punt titled "Comparison: Angular vs. React vs. Vue," which examined community support through GitHub repository comparisons, Figure  illustrates the following:
+
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.6\textwidth]{image.png}
+%     \caption{Number of GitHub repositories by frameworks}
+%     \label{fig:github_repos}
+% \end{figure}
+
+% The graph indicates that React enjoys the largest community support, followed by Angular in second place and Vue in third~\cite{cincovic2020comparison}.
+%\newpage
+
+\section{Relevant JavaScript Web Application Frameworks}
+
+Several JavaScript Web Application Frameworks are popular for developing web applications, each with its unique features and strengths. This section provides a brief overview of two of the most relevant frameworks, Vue.js and Angular, and explains why they are examined in detail.
+
+%\section{Brief Description of Angular.js}
+
+%AngularJS, developed by Google, is a JavaScript framework for web development that emphasizes structure and quality. It was introduced in 2010 and was the first framework suitable for large enterprise applications, emphasizing clear architecture, high testability, and isolated components. Techniques like Dependency Injection enable efficient and maintainable software development based on JavaScript.
+
+%Angular, introduced in 2016 as a successor to AngularJS, is a complete rewrite and uses TypeScript as its foundation. This allows for better scalability and performance. Angular offers an extensive development environment with features such as two-way data binding, a powerful Command Line Interface (CLI), and a well-defined architecture. It has evolved from a pure framework to a comprehensive platform for developing web applications \cite{angular}.
+
+%\section{Brief Description of Vue.js}
+
+%Vue.js, pronounced /vju:/, like "view", is a JavaScript framework for designing user interfaces. It was developed by Evan You in 2014 and has quickly become one of the most popular frameworks. Vue.js is based on standard HTML, CSS, and JavaScript and offers a declarative, component-based programming model. This model allows for efficient development of user interfaces of any complexity. Key features of Vue.js include the virtual DOM, reactive data binding, and easy integration with other projects and libraries.
+
+%Vue.js is flexible and lightweight, suitable for both small projects and large applications. It allows developers to incrementally adopt it into existing projects and add additional features as needed \cite{vuejs}.
 
 \subsection{Angular}
 
@@ -240,7 +289,7 @@ In this section, Vue and Angular will be compoared based on several parameters t
 
 \textbf{Comparison:}
 \begin{itemize}
-    \item Vue.js often has better performance for simple to moderately complex applications.
+    \item Vue often has better performance for simple to moderately complex applications.
     \item Angular provides robust performance optimizations suitable for enterprise-level applications.
 \end{itemize}
 
@@ -285,7 +334,7 @@ In this section, Vue and Angular will be compoared based on several parameters t
 \textbf{Comparison:}
 \begin{itemize}
     \item Angular has a larger and more established community.
-    \item Vue.js is rapidly growing and has a supportive community.
+    \item Vue is rapidly growing and has a supportive community.
 \end{itemize}
 
 \subsection{Ecosystem}
@@ -306,7 +355,10 @@ In this section, Vue and Angular will be compoared based on several parameters t
 
 \textbf{Comparison:}
 \begin{itemize}
-    \item Vue.js offers flexibility in choosing tools and libraries.
+    \item Vue offers flexibility in choosing tools and libraries.
     \item Angular provides a more integrated and consistent development experience.
 \end{itemize}
 
+% \section{Conclusion}
+
+% Choosing the right framework depends on the specific needs of a project. Vue.js offers simplicity and flexibility, making it ideal for smaller projects and quick integration. Angular provides a comprehensive solution suitable for large-scale applications with its robust features and strong support from Google. Understanding the strengths and weaknesses of each framework can help developers make informed decisions to best meet their project requirements.
