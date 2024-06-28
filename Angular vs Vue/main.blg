@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[121] biber-MSWIN64:340> INFO - === 
+[172] Biber.pm:420> INFO - Reading 'main.bcf'
+[307] Biber.pm:994> INFO - Found 14 citekeys in bib section 0
+[323] Biber.pm:4463> INFO - Processing section 0
+[337] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[390] bibtex.pm:1713> INFO - LaTeX decoding ...
+[408] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[508] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[508] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[508] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[508] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[527] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[535] bbl.pm:779> INFO - Output to main.bbl
+[536] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\sandr\AppData\Local\Temp\biber_tmp_i8y5\33e59b5ca9ec342068223d604c3f8d55_2404.utf8, line 108, warning: 13 characters of junk seen at toplevel
+[536] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\sandr\AppData\Local\Temp\biber_tmp_i8y5\33e59b5ca9ec342068223d604c3f8d55_2404.utf8, line 116, warning: 2 characters of junk seen at toplevel
+[536] Biber.pm:133> INFO - WARNINGS: 2
+=======
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
 [46] biber-darwin:340> INFO - === Thu Jun 27, 2024, 18:24:14
@@ -16,3 +36,4 @@
 [205] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/j8/q_tgsp710614gh6y52k23syr0000gn/T/biber_tmp_pHEC/33e59b5ca9ec342068223d604c3f8d55_17145.utf8, line 108, warning: 13 characters of junk seen at toplevel
 [205] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/j8/q_tgsp710614gh6y52k23syr0000gn/T/biber_tmp_pHEC/33e59b5ca9ec342068223d604c3f8d55_17145.utf8, line 116, warning: 2 characters of junk seen at toplevel
 [206] Biber.pm:133> INFO - WARNINGS: 2
+>>>>>>> 12fd65016e1c8f01241c280389acfd89ddcc9dc2
