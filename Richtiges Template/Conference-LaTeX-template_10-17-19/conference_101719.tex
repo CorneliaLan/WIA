@@ -38,7 +38,7 @@ s2110237017@fhooe.at}
 \maketitle
 
 \begin{abstract}
-This paper presents a comprehensive comparison between two popular JavaScript web frameworks: Angular and Vue. It aims to assist development teams in selecting the most suitable technology for their specific application requirements by analyzing the strengths and weaknesses of both frameworks.
+This paper presents a comparison between two popular JavaScript web frameworks: Angular and Vue. It aims to assist development teams in selecting the most suitable technology for their specific application requirements by analyzing the strengths and weaknesses of both frameworks.
 
 The study covers theoretical aspects, such as the advantages and disadvantages of web frameworks, JavaScript for complex web applications, and performance metrics. A practical case study involving a project management tool, ProTrack, implemented in both Angular and Vue, highlights real-world applications. The analysis focuses on key functionalities like user registration, project creation, and time tracking, providing insights into performance, developer-friendliness, and community support.
 
@@ -79,14 +79,13 @@ When a framework serves as the foundation for web applications, it is referred t
 \newline\subsubsection{Pros and Cons of Web Application Frameworks}
 Web frameworks offer many advantages, but they also come with some disadvantages.
 \newline\subsubsection{Advantages}
-\textit{Reduced Development Time and Cost:} By using templates for basic functions such as database connections, caching, and security, development time is significantly reduced.
+\textit{\\Reduced Development Time and Cost:} By using templates for basic functions such as database connections, caching, and security, development time is significantly reduced.
 \newline\textit{Open Source:} Most web frameworks are available as open-source, eliminating licensing costs.
 \newline\textit{Clean and Maintainable Code:} Frameworks promote the creation of clean and maintainable code, as developers can rely on proven building blocks.
-\newline\newline\newline\textit{Community Support:} Regular improvements and quick fixes for security vulnerabilities are provided by the community~\cite{ionos_webframeworks}.
+\newline\textit{Community Support:} Regular improvements and quick fixes for security vulnerabilities are provided by the community~\cite{ionos_webframeworks}.
 \newline
 \subsubsection{Disadvantages}
-
-\textit{Framework-Specific Requirements:} Different frameworks have different design principles, potentially requiring compromises based on the project.
+\textit{\\Framework-Specific Requirements:} Different frameworks have different design principles, potentially requiring compromises based on the project.
 \newline\textit{Code Bloat:} Developers may not use all available functions, leading to unnecessary code.
 \newline\textit{Dependency Risks:} Reliance on a framework and its provider can be risky if the framework is discontinued or its development slows.
 \newline\textit{Learning Curve:} Familiarizing oneself with a framework’s structure and use takes time.
@@ -139,7 +138,7 @@ Community support is essential for the ongoing development and troubleshooting o
 
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=0.5\textwidth]{image.png}
+    \includegraphics[width=0.45\textwidth]{image.png}
     \caption{Number of GitHub repositories by frameworks~\cite{cincovic2020comparison}}
     \label{fig:github_repos}
 \end{figure}
@@ -165,7 +164,7 @@ Community support is essential for the ongoing development and troubleshooting o
 
 \subsection{Relevant JavaScript Web Application Frameworks}
 
-Several JavaScript Web Application Frameworks are popular for developing web applications, each with its unique features and strengths. This section provides a brief overview of two of the most relevant frameworks, Vue.js and Angular, and explains why they are examined in detail.
+Several JavaScript Web Application Frameworks are popular for developing web applications, each with its unique features and strengths. This section provides a brief overview of two of the most relevant frameworks, Vue and Angular, and explains why they are examined in detail.
 
 %\section{Brief Description of Angular.js}
 
@@ -221,7 +220,7 @@ In this section, Vue and Angular will be compared based on several parameters to
 \newline
 \subsubsection{Developer-Friendliness}
 \textit{\\Vue:} Vue is known for its ease of learning and integration, featuring a simple syntax and flexible structure. Its comprehensive documentation and single-file components (where HTML, CSS, and JavaScript reside in a single file) make development straightforward.
-\newline\textit{\\\\Angular:} Angular has a steeper learning curve due to its complexity and reliance on TypeScript, a statically-typed superset of JavaScript. Despite this, Angular offers extensive documentation and resources, promoting best practices and consistency in large teams and complex projects.
+\newline\textit{\\Angular:} Angular has a steeper learning curve due to its complexity and reliance on TypeScript, a statically-typed superset of JavaScript. Despite this, Angular offers extensive documentation and resources, promoting best practices and consistency in large teams and complex projects.
 \newline\textit{In comparison:} Vue.js is generally more accessible for beginners due to its simpler syntax and flexibility. Angular, with its comprehensive documentation and enforced best practices, is better suited for developers experienced with TypeScript and large-scale applications.
 \newline
 \subsubsection{Community Support}
@@ -288,10 +287,25 @@ The objective of this case study is to compare Angular and Vue in the context of
 \textit{\\Project Creation:\newline}
 \textit{Angular: }Project creation in Angular was achieved using Reactive Forms and services. Reactive Forms allowed for complex form validation and dynamic form control. The data handling was managed through Angular services, ensuring a clean separation of concerns.
 \newline\textit{Vue: }In Vue, project creation utilized Vue Forms and Vuex. The form logic was encapsulated within the components, while Vuex managed the state of the project data, ensuring consistency across the application.
-\newline\newline
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.45\textwidth]{newProject.png}
+    \caption{Project Time running}
+    \label{fig:ProTrack}
+\end{figure}
+\newpage
 \textit{Start and Stop Functionality:\newline}
 \textit{Angular: }The start and stop functionality for time tracking in Angular was implemented using a timer service and RxJS for managing time intervals. This approach allowed for reactive programming, enabling real-time updates and precise time tracking.
 \newline\textit{Vue: }In Vue, the time tracking functionality was built using a timer component and Vuex for state management. The component handled the timer logic, while Vuex ensured that the state was updated accurately and consistently.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.45\textwidth]{StartTimeRecording.png}
+    \caption{Project Time running}
+    \label{fig:ProTrack}
+\end{figure}
+
 \subsection{Technical Implementation}
 \paragraph{Application Architecture}
 \textit{\\Angular: }The Angular application followed a component-based architecture with modules and services. This hierarchical structure ensured maintainability and scalability. Strong typing with TypeScript added an additional layer of robustness.
@@ -324,28 +338,26 @@ The objective of this case study is to compare Angular and Vue in the context of
 Choosing the right framework depends largely on the specific needs of a project. Vue.js offers simplicity and flexibility, making it ideal for smaller projects and rapid integration, while Angular provides a comprehensive solution suitable for large-scale applications with its robust features and strong support from Google. Understanding the strengths and weaknesses of each framework can help developers make informed decisions to best meet their project requirements.
 
 \subsection{Summary}
-Angular and Vue are tailored for different project scales and requirements. Angular is well-suited for large-scale, complex applications, benefiting from its comprehensive features and strong backing by Google. On the other hand, Vue is perfect for smaller, agile projects that require quick setups and less rigid structural constraints.
+Angular and Vue are tailored for different project scales and requirements. Angular is well-suited for large-scale, complex applications, benefiting from its comprehensive features and strong backing by Google. It offers a well-defined architecture, extensive libraries, and a highly structured environment that enhances maintainability and scalability. On the other hand, Vue is perfect for smaller, agile projects that require quick setups and less rigid structural constraints. Vue’s simplicity, ease of use, and flexible integration make it highly attractive for rapid development cycles and dynamic project requirements.
 
 \subsection{Recommendations}
-For enterprise-level applications that demand robust architecture and extensive features, Angular is the recommended choice. It offers a structured environment, extensive tooling, and long-term support, making it suitable for applications that require high performance, security, and maintainability.
+For enterprise-level applications that demand robust architecture and extensive features, Angular is the recommended choice. It offers a structured environment, extensive tooling, and long-term support, making it suitable for applications that require high performance, security, and maintainability. Angular’s strong typing with TypeScript, dependency injection, and comprehensive documentation support the development of large, complex applications with consistent coding practices.
 
-For projects that prioritize rapid prototyping and require a high degree of flexibility, Vue is more appropriate. Its learning curve is shorter, and it offers ease of integration with existing projects, making it ideal for startups, small teams, and projects with evolving requirements.
+For projects that prioritize rapid prototyping and require a high degree of flexibility, Vue is more appropriate. Its learning curve is shorter, and it offers ease of integration with existing projects, making it ideal for startups, small teams, and projects with evolving requirements. Vue’s component-based architecture and reactivity system enable quick iteration and adaptation, which are crucial for fast-paced development environments.
+Additionally, developers should consider the following factors when choosing between Angular and Vue.
+\newline\subsubsection{Team Expertise} If the development team has prior experience with TypeScript and prefers a strongly-typed language, Angular might be more suitable. TypeScript's static typing can reduce errors and improve code quality. Conversely, if the team is looking for simplicity and ease of use, Vue's intuitive design can be advantageous. Vue’s flexibility and ease of learning make it accessible to developers with varying levels of experience.
+\newline\subsubsection{Project Complexity} For highly complex projects with numerous components and dependencies, Angular’s structured approach and built-in features like dependency injection can be beneficial. Angular’s modularity and separation of concerns support maintainability in large applications. Vue’s modularity and lightweight nature are better suited for simpler, less complex projects. Its ease of integration with other libraries and tools can streamline development for smaller applications.
+\newline\subsubsection{Community and Ecosystem} Angular’s larger community and extensive ecosystem provide robust support and numerous third-party libraries, which can be crucial for large-scale projects. The strong corporate backing from Google ensures ongoing improvements and stability. Vue, while growing rapidly, offers a more community-driven ecosystem, which is advantageous for projects that benefit from rapid innovation and community contributions. Vue’s community is highly active, contributing to a wealth of plugins and extensions that enhance its functionality.
 
-Additionally, developers should consider the following factors when choosing between Angular and Vue:
-\newline
-\subsubsection{Team Expertise:} If the development team has prior experience with TypeScript and prefers a strongly-typed language, Angular might be more suitable. Conversely, if the team is looking for simplicity and ease of use, Vue's intuitive design can be advantageous.
-\newline\subsubsection{Project Complexity:} For highly complex projects with numerous components and dependencies, Angular’s structured approach and built-in features like dependency injection can be beneficial. Vue’s modularity and lightweight nature are better suited for simpler, less complex projects.
-\newline\subsubsection{Community and Ecosystem:} Angular’s larger community and extensive ecosystem provide robust support and numerous third-party libraries, which can be crucial for large-scale projects. Vue, while growing rapidly, offers a more community-driven ecosystem, which is advantageous for projects that benefit from rapid innovation and community contributions.
-\newline
 \subsection{Future Outlook}
 Future research should focus on the evolving best practices in using these frameworks and how they affect development efficiency and performance. This could provide deeper insights into which frameworks are best suited for various types of projects as technology and market demands continue to evolve.
-\newline\subsubsection{Performance Improvements:} Investigating how future updates to Angular and Vue impact their performance, particularly in terms of load times, responsiveness, and resource utilization, will help developers make more informed decisions.
-\newline\subsubsection{Tooling and Integration:} As new tools and plugins emerge, understanding how they integrate with Angular and Vue can provide valuable information on enhancing development workflows and project outcomes.
-\newline\subsubsection{Case Studies and Real-World Applications:} Conducting more case studies on different types of projects (e.g., e-commerce, social media, enterprise applications) can offer practical insights into the strengths and weaknesses of each framework in real-world scenarios.
-\newline\subsubsection{Developer Experience:} Evaluating how changes in these frameworks impact developer productivity, satisfaction, and learning curves can help guide the choice of framework based on team dynamics and project requirements.
 \newline
-By continuously monitoring and evaluating these aspects, developers can better adapt to the rapidly changing landscape of web development and make informed decisions that align with their project goals and organizational needs.
+\subsubsection{Performance Improvements} Investigating how future updates to Angular and Vue impact their performance, particularly in terms of load times, responsiveness, and resource utilization, will help developers make more informed decisions. Performance benchmarks and comparative studies can provide practical insights into optimizing applications for better user experiences.
+\newline\subsubsection{Tooling and Integration} As new tools and plugins emerge, understanding how they integrate with Angular and Vue can provide valuable information on enhancing development workflows and project outcomes. Evaluating the efficiency and ease of use of these tools can support more effective and streamlined development processes.
+\newline\subsubsection{Case Studies and Real-World Applications} Conducting more case studies on different types of projects (e.g., e-commerce, social media, enterprise applications) can offer practical insights into the strengths and weaknesses of each framework in real-world scenarios. Detailed analyses of project implementations can highlight best practices and common pitfalls.
+\newline\subsubsection{Developer Experience} Evaluating how changes in these frameworks impact developer productivity, satisfaction, and learning curves can help guide the choice of framework based on team dynamics and project requirements. Surveys and interviews with developers can provide qualitative data on the usability and developer experience of each framework.
 
+By continuously monitoring and evaluating these aspects, developers can better adapt to the rapidly changing landscape of web development and make informed decisions that align with their project goals and organizational needs. Staying informed about advancements in these frameworks and their ecosystems will enable developers to leverage the latest features and best practices, ensuring optimal performance and project success.
 
 
 \begin{thebibliography}{00}
@@ -440,6 +452,5 @@ By continuously monitoring and evaluating these aspects, developers can better a
 %   year   = {2024},
 %   url    = {https://jquery.com/}
 % }
-IEEE conference templates contain guidance text for composing and formatting conference papers. Please ensure that all template text is removed from your conference paper prior to submission to the conference. Failure to remove the template text from your paper may result in your paper not being published.
 
 \end{document}
