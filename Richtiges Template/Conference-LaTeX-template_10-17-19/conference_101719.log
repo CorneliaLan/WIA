@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  28 JUN 2024 11:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.2)  28 JUN 2024 11:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -504,107 +504,84 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-LaTeX Warning: Citation `unctad' on page 1 undefined on input line 54.
+LaTeX Warning: Citation `unctad' on page 1 undefined on input line 55.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
 
  []
 
 
-LaTeX Warning: Citation `mao2014developing' on page 1 undefined on input line 59.
+LaTeX Warning: Citation `mao2014developing' on page 1 undefined on input line 60.
 
 
-LaTeX Warning: Citation `verma2022comparison' on page 1 undefined on input line 62.
+LaTeX Warning: Citation `verma2022comparison' on page 1 undefined on input line 63.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--64
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
 \OT1/ptm/m/n/10 frame-works sig-nif-i-cantly in-flu-ence the ef-fi-ciency and
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 62--64
+Underfull \hbox (badness 3343) in paragraph at lines 63--65
 \OT1/ptm/m/n/10 that dif-fer-ent frame-works ex-hibit unique strengths and
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 62--64
+Underfull \hbox (badness 2285) in paragraph at lines 63--65
 \OT1/ptm/m/n/10 weak-nesses con-cern-ing per-for-mance, main-tain-abil-ity, and
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 62--64
+Underfull \hbox (badness 2744) in paragraph at lines 63--65
 \OT1/ptm/m/n/10 typ-i-cally in-clude bench-marks, test sce-nar-ios, and other
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--64
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
  []
 
 
-Underfull \hbox (badness 3108) in paragraph at lines 65--68
+Underfull \hbox (badness 3108) in paragraph at lines 66--69
 \OT1/ptm/m/n/10 frame-works and serve as a decision-making guide by
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 65--68
+Underfull \hbox (badness 1874) in paragraph at lines 66--69
 \OT1/ptm/m/n/10 of both tech-nolo-gies. These in-sights as-sist de-vel-op-ment
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 65--68
+Underfull \hbox (badness 4967) in paragraph at lines 66--69
 \OT1/ptm/m/n/10 teams in mak-ing in-formed de-ci-sions about the most
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 65--68
+Underfull \hbox (badness 4279) in paragraph at lines 66--69
 \OT1/ptm/m/n/10 to con-tin-u-ously en-hance user ex-pe-ri-ence and im-prove
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--68
+Underfull \hbox (badness 10000) in paragraph at lines 66--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
 
  []
 
 
-LaTeX Warning: Citation `ionos_webframeworks' on page 1 undefined on input line 77.
+LaTeX Warning: Citation `ionos_webframeworks' on page 1 undefined on input line 78.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
 
-LaTeX Warning: Citation `ionos_webframeworks' on page 1 undefined on input line 84.
-
-
-Underfull \hbox (badness 1769) in paragraph at lines 81--86
-\OT1/ptm/m/n/10 con-nec-tions, caching, and se-cu-rity, de-vel-op-ment time is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--86
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
@@ -613,328 +590,434 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--86
 
 ]
 
-LaTeX Warning: Citation `ionos_webframeworks' on page 2 undefined on input line 92.
+LaTeX Warning: Citation `ionos_webframeworks' on page 2 undefined on input line 85.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--94
+Underfull \hbox (badness 1769) in paragraph at lines 82--87
+\OT1/ptm/m/n/10 con-nec-tions, caching, and se-cu-rity, de-vel-op-ment time is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--87
+
+ []
+
+
+LaTeX Warning: Citation `ionos_webframeworks' on page 2 undefined on input line 93.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--95
  \OT1/ptm/m/it/10 3) Dis-ad-van-tages: [][] Framework-Specific Re-quire-ments:
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 88--94
+Underfull \hbox (badness 6348) in paragraph at lines 89--95
 \OT1/ptm/m/n/10 Dif-fer-ent frame-works have dif-fer-ent de-sign prin-ci-ples,
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 88--94
+Underfull \hbox (badness 4303) in paragraph at lines 89--95
 \OT1/ptm/m/it/10 Dependency Risks: \OT1/ptm/m/n/10 Re-liance on a frame-work and its
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--94
+Underfull \hbox (badness 10000) in paragraph at lines 89--95
 
  []
 
 
-LaTeX Warning: Citation `ionos_jsframeworks' on page 2 undefined on input line 96.
+LaTeX Warning: Citation `ionos_jsframeworks' on page 2 undefined on input line 97.
 
 
-LaTeX Warning: Citation `mdn_dom' on page 2 undefined on input line 98.
+LaTeX Warning: Citation `mdn_dom' on page 2 undefined on input line 99.
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 96--100
+Underfull \hbox (badness 1675) in paragraph at lines 97--101
 \OT1/ptm/m/n/10 suited for work in web browsers. Orig-i-nally de-vel-oped
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 96--100
+Underfull \hbox (badness 1642) in paragraph at lines 97--101
 \OT1/ptm/m/n/10 JavaScript frame-works es-pe-cially suit-able for de-vel-op-ing
  []
 
 
-Underfull \hbox (badness 5533) in paragraph at lines 96--100
+Underfull \hbox (badness 5533) in paragraph at lines 97--101
 \OT1/ptm/m/n/10 com-plex web ap-pli-ca-tions. These frame-works of-fer a
  []
 
 
-Underfull \hbox (badness 5817) in paragraph at lines 96--100
+Underfull \hbox (badness 5817) in paragraph at lines 97--101
 \OT1/ptm/m/n/10 in-ter-face for web doc-u-ments. It rep-re-sents the page
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 96--100
+Underfull \hbox (badness 3536) in paragraph at lines 97--101
 \OT1/ptm/m/n/10 so that pro-grams can change the doc-u-ment struc-ture,
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 96--100
+Underfull \hbox (badness 3590) in paragraph at lines 97--101
 \OT1/ptm/m/n/10 style, and con-tent. The DOM is cru-cial for cre-at-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
+Underfull \hbox (badness 10000) in paragraph at lines 97--101
 
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 102--104
+Underfull \hbox (badness 2027) in paragraph at lines 103--105
  \OT1/ptm/m/it/10 1) Ben-e-fits of Dy-namic Web Con-tent: [][] \OT1/ptm/m/n/10 Per-son-al-iza-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
  []
 
 
-LaTeX Warning: Citation `jquery_history' on page 2 undefined on input line 108.
+LaTeX Warning: Citation `jquery_history' on page 2 undefined on input line 109.
 
 
-LaTeX Warning: Citation `moldstud2024' on page 2 undefined on input line 110.
+LaTeX Warning: Citation `moldstud2024' on page 2 undefined on input line 111.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
 
  []
 
 
-LaTeX Warning: Citation `mdn-js-guide' on page 2 undefined on input line 120.
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
+
+ []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 124--126
+LaTeX Warning: Citation `mdn-js-guide' on page 2 undefined on input line 121.
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 125--127
 \OT1/ptm/m/n/10 re-spon-sive-ness, and re-source uti-liza-tion, frame-works like
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--126
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
- \OT1/ptm/m/it/10 1) Per-for-mance: [][] \OT1/ptm/m/n/10 Per-for-mance met-rics are mea-sured
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
-
- []
-
-
-LaTeX Warning: Citation `angular' on page 2 undefined on input line 129.
-
-
-LaTeX Warning: Citation `vue' on page 2 undefined on input line 129.
-
-
-Underfull \hbox (badness 3780) in paragraph at lines 129--131
-\OT1/ptm/m/n/10 as out-lined in the of-fi-cial An-gu-lar doc-u-men-ta-tion. In
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
 [2]
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+ \OT1/ptm/m/it/10 1) Per-for-mance: [][] \OT1/ptm/m/n/10 Per-for-mance met-rics are mea-sured
+ []
 
-LaTeX Warning: Citation `cincovic2020comparison' on page 3 undefined on input line 132.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+LaTeX Warning: Citation `angular' on page 3 undefined on input line 130.
+
+
+LaTeX Warning: Citation `vue' on page 3 undefined on input line 130.
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 130--132
+\OT1/ptm/m/n/10 as out-lined in the of-fi-cial An-gu-lar doc-u-men-ta-tion. In
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+
+ []
+
+
+LaTeX Warning: Citation `cincovic2020comparison' on page 3 undefined on input line 133.
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 133--139
+\OT1/ptm/m/n/10 frame-works. This is un-der-scored by a study con-ducted
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 133--139
+\OT1/ptm/m/n/10 by Jel-ica Cin-covi[]c and Mar-ija Punt, which an-a-lyzed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--139
+
+ []
 
 <image.png, id=15, 361.8318pt x 217.7736pt>
 File: image.png Graphic file (type png)
 <use image.png>
-Package pdftex.def Info: image.png  used on input line 140.
+Package pdftex.def Info: image.png  used on input line 142.
 (pdftex.def)             Requested size: 258.0pt x 155.28824pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 140--141
+Overfull \hbox (6.0pt too wide) in paragraph at lines 142--143
  [][] 
  []
 
 
-LaTeX Warning: Citation `cincovic2020comparison' on page 3 undefined on input line 141.
+LaTeX Warning: Citation `cincovic2020comparison' on page 3 undefined on input line 143.
 
 
-LaTeX Warning: Citation `angular-io' on page 3 undefined on input line 182.
+LaTeX Warning: Citation `angular-io' on page 3 undefined on input line 184.
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 182--190
+Underfull \hbox (badness 5203) in paragraph at lines 184--192
  \OT1/ptm/m/it/10 1) An-gu-lar: [][] \OT1/ptm/m/n/10 An-gu-lar is a plat-form and frame-work
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 182--190
+Underfull \hbox (badness 3954) in paragraph at lines 184--192
 \OT1/ptm/m/n/10 a com-pre-hen-sive so-lu-tion for com-plex and large-scale
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--190
+Underfull \hbox (badness 10000) in paragraph at lines 184--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--190
+Underfull \hbox (badness 10000) in paragraph at lines 184--192
 \OT1/ptm/m/it/10 Two-way data bind-ing: \OT1/ptm/m/n/10 An-gu-lar fa-cil-i-tates au-to-matic
  []
 
 
-Underfull \hbox (badness 7203) in paragraph at lines 182--190
+Underfull \hbox (badness 7203) in paragraph at lines 184--192
 \OT1/ptm/m/it/10 Dependency In-jec-tion: \OT1/ptm/m/n/10 An-gu-lar's DI sys-tem pro-motes
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 182--190
+Underfull \hbox (badness 4927) in paragraph at lines 184--192
 \OT1/ptm/m/it/10 TypeScript sup-port: \OT1/ptm/m/n/10 An-gu-lar is built with Type-Script,
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 182--190
+Underfull \hbox (badness 3078) in paragraph at lines 184--192
 \OT1/ptm/m/n/10 pro-vid-ing type safety, en-hanced tool-ing, and im-proved
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--190
+Underfull \hbox (badness 10000) in paragraph at lines 184--192
 
  []
 
 
-LaTeX Warning: Citation `vuejs2024' on page 3 undefined on input line 192.
+LaTeX Warning: Citation `vuejs2024' on page 3 undefined on input line 194.
 
 
-Underfull \hbox (badness 3849) in paragraph at lines 192--201
+Underfull \hbox (badness 3849) in paragraph at lines 194--203
  \OT1/ptm/m/it/10 2) Vue: [][] \OT1/ptm/m/n/10 Vue is a pro-gres-sive JavaScript frame-work
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 192--201
+Underfull \hbox (badness 1810) in paragraph at lines 194--203
 \OT1/ptm/m/n/10 com-mit to the en-tire frame-work up-front. This mod-u-lar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--201
+Underfull \hbox (badness 10000) in paragraph at lines 194--203
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--201
+Underfull \hbox (badness 10000) in paragraph at lines 194--203
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--214
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
 
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 216--220
+Underfull \hbox (badness 2961) in paragraph at lines 218--222
 \OT1/ptm/m/n/10 de-sign. Vue's re-ac-tiv-ity sys-tem en-sures only nec-es-sary
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 216--220
+Underfull \hbox (badness 6978) in paragraph at lines 218--222
 \OT1/ptm/m/n/10 suit-able for enterprise-level ap-pli-ca-tions through AOT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--220
-
- []
-
-
-Underfull \hbox (badness 6575) in paragraph at lines 221--225
-\OT1/ptm/m/n/10 fea-tur-ing a sim-ple syn-tax and flex-i-ble struc-ture. Its
- []
-
-
-Underfull \hbox (badness 1769) in paragraph at lines 221--225
-\OT1/ptm/m/n/10 com-pre-hen-sive doc-u-men-ta-tion and single-file com-po-nents
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--225
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--225
-
- []
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 221--225
-\OT1/ptm/m/it/10 Angular: \OT1/ptm/m/n/10 An-gu-lar has a steeper learn-ing curve due to
- []
-
-
-Underfull \hbox (badness 1681) in paragraph at lines 221--225
-\OT1/ptm/m/it/10 In com-par-i-son: \OT1/ptm/m/n/10 Vue.js is gen-er-ally more ac-ces-si-ble for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--225
+Underfull \hbox (badness 10000) in paragraph at lines 218--222
 
  []
 
 [3 <./image.png>]
-Underfull \hbox (badness 3724) in paragraph at lines 226--230
+Underfull \hbox (badness 6575) in paragraph at lines 223--227
+\OT1/ptm/m/n/10 fea-tur-ing a sim-ple syn-tax and flex-i-ble struc-ture. Its
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 223--227
+\OT1/ptm/m/n/10 com-pre-hen-sive doc-u-men-ta-tion and single-file com-po-nents
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--227
+
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 223--227
+\OT1/ptm/m/it/10 Angular: \OT1/ptm/m/n/10 An-gu-lar has a steeper learn-ing curve due to
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 223--227
+\OT1/ptm/m/it/10 In com-par-i-son: \OT1/ptm/m/n/10 Vue.js is gen-er-ally more ac-ces-si-ble for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--227
+
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 228--232
 \OT1/ptm/m/it/10 In com-par-i-son: \OT1/ptm/m/n/10 An-gu-lar ben-e-fits from a larger, more
  []
 
 
-Underfull \hbox (badness 4242) in paragraph at lines 226--230
+Underfull \hbox (badness 4242) in paragraph at lines 228--232
 \OT1/ptm/m/n/10 es-tab-lished com-mu-nity and cor-po-rate back-ing, of-fer-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--230
+Underfull \hbox (badness 10000) in paragraph at lines 228--232
 
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 231--236
+Underfull \hbox (badness 2418) in paragraph at lines 233--238
 \OT1/ptm/m/n/10 de-vel-op-ment ex-pe-ri-ence with-out the need for ex-ten-sive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--236
+Underfull \hbox (badness 10000) in paragraph at lines 233--238
 
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 281--283
- \OT1/ptm/m/it/10 a) User Reg-is-tra-tion and Lo-gin: [][] Im-ple-men-ta-tion in
- []
-
-
-Underfull \hbox (badness 2744) in paragraph at lines 281--283
-\OT1/ptm/m/it/10 An-gu-lar: \OT1/ptm/m/n/10 In An-gu-lar, user reg-is-tra-tion and lo-gin were
- []
-
-
-Underfull \hbox (badness 1681) in paragraph at lines 281--283
-\OT1/ptm/m/n/10 ser-vice. An-gu-lar's template-driven forms were em-ployed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
 
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 281--283
-\OT1/ptm/m/it/10 Implementation in Vue: \OT1/ptm/m/n/10 In Vue, user reg-is-tra-tion and
+Underfull \hbox (badness 1472) in paragraph at lines 280--282
+ \OT1/ptm/m/it/10 1) Ob-jec-tive: [][] \OT1/ptm/m/n/10 The ob-jec-tive of this case study is to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--291
+Underfull \hbox (badness 4001) in paragraph at lines 280--282
+\OT1/ptm/m/n/10 com-pare An-gu-lar and Vue in the con-text of project
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--282
 
  []
 
-[4] [5]
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--295
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 312--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
+ \OT1/ptm/m/it/10 3) Com-mu-nity and Ecosys-tem:: [][] \OT1/ptm/m/n/10 An-gu-lar's larger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
+
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 341--342
+\OT1/ptm/m/n/10 ef-fi-ciency and per-for-mance. This could pro-vide deeper
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 342--343
+\OT1/ptm/m/n/10 up-dates to An-gu-lar and Vue im-pact their per-for-mance,
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 342--343
+\OT1/ptm/m/n/10 par-tic-u-larly in terms of load times, re-spon-sive-ness, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 343--344
+\OT1/ptm/m/n/10 emerge, un-der-stand-ing how they in-te-grate with An-gu-lar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+
+ []
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -946,9 +1029,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[6
-
-] (conference_101719.aux)
+[6] (conference_101719.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -959,15 +1040,15 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 24139 strings out of 474424
- 627361 string characters out of 5741740
- 1944496 words of memory out of 5000000
- 46107 multiletter control sequences out of 15000+600000
- 601409 words of font info for 125 fonts, out of 8000000 for 9000
+ 24116 strings out of 474424
+ 627087 string characters out of 5741740
+ 1942496 words of memory out of 5000000
+ 46092 multiletter control sequences out of 15000+600000
+ 596681 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,101p,955b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/sandr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (6 pages, 106365 bytes).
+Output written on conference_101719.pdf (6 pages, 107153 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
