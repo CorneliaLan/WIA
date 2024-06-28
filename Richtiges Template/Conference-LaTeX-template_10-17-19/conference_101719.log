@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  28 JUN 2024 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  28 JUN 2024 11:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -616,9 +616,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--95
  []
 
 
-LaTeX Warning: Citation `mdn_dom' on page 2 undefined on input line 99.
-
-
 Underfull \hbox (badness 1675) in paragraph at lines 97--101
 \OT1/ptm/m/n/10 suited for work in web browsers. Orig-i-nally de-vel-oped
  []
@@ -664,9 +661,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--105
  []
 
 
-LaTeX Warning: Citation `moldstud2024' on page 2 undefined on input line 111.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 111--113
 
  []
@@ -675,9 +669,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--113
 Underfull \hbox (badness 10000) in paragraph at lines 115--117
 
  []
-
-
-LaTeX Warning: Citation `mdn-js-guide' on page 2 undefined on input line 121.
 
 
 Underfull \hbox (badness 1552) in paragraph at lines 125--127
@@ -710,13 +701,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--132
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 133--139
-\OT1/ptm/m/n/10 frame-works. This is un-der-scored by a study con-ducted
- []
-
-
-Underfull \hbox (badness 4316) in paragraph at lines 133--139
-\OT1/ptm/m/n/10 by Jel-ica Cin-covi[]c and Mar-ija Punt, which an-a-lyzed
+Underfull \hbox (badness 2126) in paragraph at lines 133--139
+\OT1/ptm/m/n/10 to their find-ings, pre-sented in the graph be-low, Re-act
  []
 
 
@@ -995,13 +981,142 @@ Underfull \hbox (badness 10000) in paragraph at lines 353--354
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--359
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 []\OT1/ptm/m/n/8 Vue.js, ``Einf[]uhrung,'' https://vuejs.org/guide/introduction.html,
  []
 
+/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex:355: You can't use `macro parameter character #' in horizontal mode.
+l.355 ...tps://kinsta.com/de/blog/angular-vs-vue/#
+                                                  angular-vs-vue-hnlichkeite...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
 
-Underfull \hbox (badness 1803) in paragraph at lines 361--362
-[]\OT1/ptm/m/n/8 United Na-tions Con-fer-ence on Trade and De-vel-op-ment, ``Dig-i-tal
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
+[]\OT1/ptm/m/n/8 Kinsta, ``An-gu-lar vs. Vue: Ein Kopf-an-Kopf-Vergleich,''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
+\OT1/ptm/m/n/8 https://kinsta.com/de/blog/angular-vs-vue/angular-vs-vue-hnlichkeiten-
+ []
+
+/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex:356: Missing $ inserted.
+<inserted text> 
+                $
+l.356 ....mozilla.org/en-US/docs/Web/API/Document_
+                                                  Object_Model/Introduction,...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex:357: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.357 \bibitem{mdn-js-guide}
+                             Mozilla Developer Network, ``JavaScript Guide,'...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex:357: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.357 \bibitem{mdn-js-guide}
+                             Mozilla Developer Network, ``JavaScript Guide,'...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex:357: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.357 \bibitem{mdn-js-guide}
+                             Mozilla Developer Network, ``JavaScript Guide,'...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex:358: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.358 \bibitem{moldstud2024}
+                             MoldStud, ``Creating Dynamic Web Content with J...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex:358: Missing $ inserted.
+<inserted text> 
+                $
+l.358 \bibitem{moldstud2024}
+                             MoldStud, ``Creating Dynamic Web Content with J...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex:358: Missing } inserted.
+<inserted text> 
+                }
+l.358 \bibitem{moldstud2024}
+                             MoldStud, ``Creating Dynamic Web Content with J...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--358
+[]\OT1/ptm/m/n/8 MDN Web Docs, ``In-tro-duc-tion to the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--358
+\OT1/ptm/m/n/8 DOM,'' https://developer.mozilla.org/en-
+ []
+
+
+Overfull \hbox (193.07541pt too wide) in paragraph at lines 356--358
+\OT1/ptm/m/n/8 US/docs/Web/API/Document$[]\OML/cmm/m/it/8 bject[]odel=Introduction; \OT1/cmr/m/n/8 2024\OML/cmm/m/it/8 :MozillaDeveloperNetwork; \OT1/cmr/m/n/8 \\OML/cmm/m/it/8 JavaScriptGuide;[] https \OT1/cmr/m/n/8 :
+ []
+
+
+Overfull \hbox (79.5633pt too wide) in paragraph at lines 356--358
+\OML/cmm/m/it/8 ==developer:mozilla:org=en \OMS/cmsy/m/n/8 ^^@ \OML/cmm/m/it/8 US=docs=Web=JavaScript=Guide; accessed\OT1/cmr/m/n/8 25\OML/cmm/m/it/8 :\OT1/cmr/m/n/8 06\OML/cmm/m/it/8 :\OT1/cmr/m/n/8 2024\OML/cmm/m/it/8 :[][]$ 
+ []
+
+/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex:358: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.358 \bibitem{moldstud2024}
+                             MoldStud, ``Creating Dynamic Web Content with J...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+[]\OT1/ptm/m/n/8 MoldStud, ``Cre-at-ing Dy-namic Web Con-tent with JavaScript and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+\OT1/ptm/m/n/8 jQuery,'' https://moldstud.com/articles/p-creating-dynamic-web-content-
  []
 
 
@@ -1020,24 +1135,20 @@ Before submitting the final camera ready copy, remember to:
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 24098 strings out of 474116
- 623568 string characters out of 5743682
+ 24113 strings out of 474116
+ 623733 string characters out of 5743682
  1943187 words of memory out of 5000000
- 46088 multiletter control sequences out of 15000+600000
- 593875 words of font info for 102 fonts, out of 8000000 for 9000
+ 46101 multiletter control sequences out of 15000+600000
+ 595601 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,101p,1009b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (6 pages, 92624 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on conference_101719.pdf (6 pages, 141651 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
