@@ -538,6 +538,11 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 OUTPUT main.bcf
+INPUT main.bbl
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT main.bbl
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/colorprofiles/sRGB.icc
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
