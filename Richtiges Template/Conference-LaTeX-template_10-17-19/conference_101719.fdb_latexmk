@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1719564734.64689 "/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1719564735.30029 0
-  "/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex" 1719564734.39446 35931 66754ee6152efd0b0839a0cf6576ec13 ""
+["pdflatex"] 1719565584.64473 "/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1719565585.29691 0
+  "/Users/cornelialangsenlehner/Desktop/FH/MC/4.Semester/Wissenschaftliches Arbeiten/Wissenschatliche Arbeit/WIA/Richtiges Template/Conference-LaTeX-template_10-17-19/conference_101719.tex" 1719565584.53333 35976 8e9fee96b927bd2d03872b1cfbb419da ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -181,8 +181,8 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711102277 8221425 e491fa116394e1732fae962d2d7a9bbc ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "IEEEtran.cls" 1440632924 288304 b67b6fc6c2abb39f9b461923f5199343 ""
-  "conference_101719.aux" 1719564735.24378 7073 2c01849c968abf702a50066cf635590c "pdflatex"
-  "conference_101719.tex" 1719564734.39446 35931 66754ee6152efd0b0839a0cf6576ec13 ""
+  "conference_101719.aux" 1719565585.24313 7073 2c01849c968abf702a50066cf635590c "pdflatex"
+  "conference_101719.tex" 1719565584.53333 35976 8e9fee96b927bd2d03872b1cfbb419da ""
   "image.png" 1719504547.15943 7852 579046f314347ae5fe50820a6f8c501a ""
   (generated)
   "conference_101719.aux"

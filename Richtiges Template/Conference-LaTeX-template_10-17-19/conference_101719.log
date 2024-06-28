@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  28 JUN 2024 10:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.22)  28 JUN 2024 11:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -632,33 +632,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--199
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+
+ []
+
 [3 <./image.png>]
-Underfull \hbox (badness 1635) in paragraph at lines 362--364
- \OT1/ptm/m/it/10 a) User Reg-is-tra-tion and Lo-gin: [][] Im-ple-men-ta-tion in
+Underfull \hbox (badness 1472) in paragraph at lines 359--361
+ \OT1/ptm/m/it/10 1) Ob-jec-tive: [][] \OT1/ptm/m/n/10 The ob-jec-tive of this case study is to
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 362--364
-\OT1/ptm/m/it/10 An-gu-lar: \OT1/ptm/m/n/10 In An-gu-lar, user reg-is-tra-tion and lo-gin were
+Underfull \hbox (badness 4001) in paragraph at lines 359--361
+\OT1/ptm/m/n/10 com-pare An-gu-lar and Vue in the con-text of project
  []
 
 
-Underfull \hbox (badness 1681) in paragraph at lines 362--364
-\OT1/ptm/m/n/10 ser-vice. An-gu-lar's template-driven forms were em-ployed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 362--364
+Underfull \hbox (badness 10000) in paragraph at lines 359--361
 
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 362--364
-\OT1/ptm/m/it/10 Implementation in Vue: \OT1/ptm/m/n/10 In Vue, user reg-is-tra-tion and
+Underfull \hbox (badness 10000) in paragraph at lines 363--366
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--372
+Underfull \hbox (badness 10000) in paragraph at lines 367--374
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--393
 
  []
 
@@ -693,7 +698,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,11n,101p,1016b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (5 pages, 99246 bytes).
+Output written on conference_101719.pdf (5 pages, 99181 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream

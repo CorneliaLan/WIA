@@ -354,15 +354,17 @@ In this section, Vue and Angular will be compoared based on several parameters t
 %\end{itemize}
 
 \subsection{Introduction of the Case Study}
-In this case study two versions of a web application called "ProTrack" will be compared that has been developed using two different web frameworks, Angular and Vue. ProTrack is a project management tool that allows users to track, manage and edit project work.
+In this case study two versions of a web application called "ProTrack" will be compared that has been developed using two different web frameworks, Angular and Vue. ProTrack is a project management tool that allows users to track, manage and edit project work.\newline
 \subsubsection{Objective}
 The objective of this case study is to compare Angular and Vue in the context of project management applications. The focus will be on three primary functionalities: user registration, project creation, and  for each project. By developing and analyzing these applications, we aim to highlight the strengths and weaknesses of each framework in practical use.
+\newline
 \subsubsection{Application Description}
 \paragraph{User Registration and Login}
-\textit{Implementation in Angular: }In Angular, user registration and login were implemented using Angular Forms and an authentication service. Angular's template-driven forms were employed to handle user input, and validation was managed through built-in validators. Authentication was handled using JSON Web Tokens (JWT) to ensure secure access.\newline
-\newline\textit{Implementation in Vue: }In Vue, user registration and login were implemented using Vue Forms and Vuex for state management. The form components handled user input and validation within the components themselves. Vuex manages the user state, including authentication tokens.
+\textit{\\Implementation in Angular: }In Angular, user registration and login were implemented using Angular Forms and an authentication service. Angular's template-driven forms were employed to handle user input, and validation was managed through built-in validators. Authentication was handled using JSON Web Tokens (JWT) to ensure secure access.\newline
+\textit{Implementation in Vue: }In Vue, user registration and login were implemented using Vue Forms and Vuex for state management. The form components handled user input and validation within the components themselves. Vuex manages the user state, including authentication tokens.
+\newline
 \paragraph{Project Management}
-\textit{Project Creation:\newline}
+\textit{\\Project Creation:\newline}
 \textit{Angular: }Project creation in Angular was achieved using Reactive Forms and services. Reactive Forms allowed for complex form validation and dynamic form control. The data handling was managed through Angular services, ensuring a clean separation of concerns.
 \newline\textit{Vue: }In Vue, project creation utilized Vue Forms and Vuex. The form logic was encapsulated within the components, while Vuex managed the state of the project data, ensuring consistency across the application.
 \newline\newline
@@ -371,29 +373,30 @@ The objective of this case study is to compare Angular and Vue in the context of
 \newline\textit{Vue: }In Vue, the time tracking functionality was built using a timer component and Vuex for state management. The component handled the timer logic, while Vuex ensured that the state was updated accurately and consistently.
 \subsection{Technical Implementation}
 \paragraph{Application Architecture}
-\textit{Angular: }The Angular application followed a component-based architecture with modules and services. This hierarchical structure ensured maintainability and scalability. Strong typing with TypeScript added an additional layer of robustness.
+\textit{\\Angular: }The Angular application followed a component-based architecture with modules and services. This hierarchical structure ensured maintainability and scalability. Strong typing with TypeScript added an additional layer of robustness.
 \newline\textit{Vue: }The Vue application also utilized a component-based architecture with Vuex for centralized state management. Vue's flexible structure allowed for rapid development and easy integration of new features.
 \paragraph{State Management}
-\textit{Angular: }State management in Angular was handled using services and BehaviorSubjects from RxJS. This approach facilitated reactive updates and a clear separation of business logic.
+\textit{\\Angular: }State management in Angular was handled using services and BehaviorSubjects from RxJS. This approach facilitated reactive updates and a clear separation of business logic.
 \newline\textit{Vue: }Vuex store was used for state management in Vue, providing a single state tree and using mutations for state changes.
 \paragraph{Routing}
-\textit{Angular: }The Angular Router was used for navigation, with lazy loading to improve performance. Route guards were implemented to secure routes and manage user access.
+\textit{\\Angular: }The Angular Router was used for navigation, with lazy loading to improve performance. Route guards were implemented to secure routes and manage user access.
 \newline\textit{Vue: }Vue Router was employed in the Vue application, with dynamic imports to optimize loading times. Navigation guards ensured that only authenticated users could access certain routes.
 
 \subsection{Performance and Efficiency}
 \subsubsection{Loading Times and Responsiveness}
-\textit{Angular: }Performance metrics indicated that Angular had an up to two seconds longer initial load time due to its larger bundle size. However, once loaded, the application was highly responsive and efficient.
+\textit{\\Angular: }Performance metrics indicated that Angular had an up to two seconds longer initial load time due to its larger bundle size. However, once loaded, the application was highly responsive and efficient.
 \newline\textit{Vue: }Vue exhibited faster initial loading times and smaller bundle sizes, contributing to a smoother user experience from the outset. Its lightweight nature made it particularly suitable for rapid development cycles.
 \subsection{Challenges and Solutions}
 \subsubsection{Common Challenges}
-\textit{State Management and Routing:} Both frameworks encountered challenges in synchronizing state and managing navigation scenarios, such as displaying the specific data content of a particular project. Angular leveraged RxJS, while Vue utilized Vuex, both providing robust solutions to these issues.
+\textit{\\State Management and Routing:} Both frameworks encountered challenges in synchronizing state and managing navigation scenarios, such as displaying the specific data content of a particular project. Angular leveraged RxJS, while Vue utilized Vuex, both providing robust solutions to these issues.
+\newline
 \subsubsection{Framework-Specific Challenges}
-\textit{Angular: }The main challenge with Angular was its complexity and boilerplate code, which required a steeper learning curve and more initial setup time.
+\textit{\\Angular: }The main challenge with Angular was its complexity and boilerplate code, which required a steeper learning curve and more initial setup time.
 \newline\textit{Vue: }Vue's flexibility sometimes led to inconsistencies. Ensuring code quality and maintaining state consistency were key challenges.
 
 \subsection{Comparison and Analysis}
 \subsubsection{Advantages and Disadvantages}
-\textit{Angular: }Angular's strengths lie in its stability and comprehensive ecosystem, making it ideal for large-scale enterprise applications. However, its verbose syntax and higher initial complexity can be drawbacks.
+\textit{\\Angular: }Angular's strengths lie in its stability and comprehensive ecosystem, making it ideal for large-scale enterprise applications. However, its verbose syntax and higher initial complexity can be drawbacks.
 \newline\textit{Vue: }Vue's simplicity and flexibility make it suitable for rapid development and smaller projects. Its main weakness is a less extensive ecosystem compared to Angular.
 
 \section{Conclusion and Recommendations}
